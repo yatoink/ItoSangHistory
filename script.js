@@ -6,13 +6,13 @@ let currentSort = null;
 let sortDirection = 1;
 let currentJson = "0a.json";
 
-function getYoutubeId(url) {    // YouTube ID取得
+function getYoutubeId(url) {    
   if (!url) return null;
   const match = url.match(/(?:v=|\/)([0-9A-Za-z_-]{11})/); 
   return match ? match[1] : null;
 }
 
-function loadTable(jsonFile) {    // JSON読み込み
+function loadTable(jsonFile) {    
   fetch(jsonFile)
     .then(response => response.json())
     .then(data => {
@@ -20,7 +20,7 @@ function loadTable(jsonFile) {    // JSON読み込み
       tableBody.innerHTML = "";
       const songs = data.songs;
 
-      //  最大公演回数を取得
+      
       let maxCount = 0;
       songs.forEach(song => {
         if (song.performances.length > maxCount) {
@@ -28,11 +28,11 @@ function loadTable(jsonFile) {    // JSON読み込み
         }
       });
 
-      //  既存の履歴ヘッダーを削除
+      
       const existingHistory = tableHeadRow.querySelectorAll(".history-header");
       existingHistory.forEach(th => th.remove());
 
-      //  履歴ヘッダー追加
+      
       for (let i = 1; i < maxCount; i++) {
       const th = document.createElement("th");
        th.textContent = "";
@@ -61,7 +61,7 @@ function loadTable(jsonFile) {    // JSON読み込み
 
       songs.forEach(song => {
 
-        //  空データはスキップ
+        
         if (
         !song.title.trim() ||
         !song.performances.length ||
@@ -76,7 +76,7 @@ function loadTable(jsonFile) {    // JSON読み込み
           .map(a => a.name)
           .join(", ");
 
-        //  日付を新しい順にソート
+        
         const sortedPerformances = [...song.performances].sort((a, b) => {
           return new Date(b.date) - new Date(a.date);
         });
@@ -92,7 +92,7 @@ function loadTable(jsonFile) {    // JSON読み込み
         const latestUrl  = latest ? latest.url  : "#";
         const videoId = getYoutubeId(latestUrl);
 
-        // 最新を除いた履歴
+        
         const pastPerformances = sortedPerformances.slice(1);
         let performanceCells = "";
 
@@ -112,7 +112,7 @@ function loadTable(jsonFile) {    // JSON読み込み
           `;
         });
 
-        //  足りない分を空セルで埋める
+        
         const emptyCount = (maxCount - 1) - pastPerformances.length;
         for (let i = 0; i < emptyCount; i++) {
           performanceCells += `<td class="history-col"></td>`;
@@ -152,7 +152,7 @@ function loadTable(jsonFile) {    // JSON読み込み
     });
 }
 
-// タブ切り替え
+
 tabButtons.forEach(button => {
   button.addEventListener("click", 
   function() {
@@ -164,7 +164,7 @@ tabButtons.forEach(button => {
   });
 });
 
-// 初期表示
+
 currentJson = "0a.json";
 loadTable(currentJson);
 
@@ -205,7 +205,7 @@ function toggleSort(type) {
   const songTh = document.getElementById("songName");
   const dateTh = document.getElementById("newDay");
 
-  // いったんリセット
+  
   songTh.textContent = "曲名";
   dateTh.textContent = "最新日付";
 
@@ -242,5 +242,6 @@ function toggleSort(type) {
 updateSortIcons();
   loadTable(currentJson);
 }
+
 
 
