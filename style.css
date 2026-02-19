@@ -106,7 +106,7 @@ table td:first-child::after {
   background: #ccc;
 }
 
-/* サムネ */
+
 th:nth-child(3),
 td:nth-child(3) {
   min-width: 63px;
@@ -141,10 +141,10 @@ tbody tr:nth-child(even) {
 .song-cell {
   width: 140px;
   min-width: 140px;
-   /* 改行させる */
-  overflow: hidden;      /* はみ出し隠す */
-  line-height: 20px;     /* 1行の高さ */
-  max-height: 30px;          /* 1行 + 半分 */
+   
+  overflow: hidden;      
+  line-height: 20px;     
+  max-height: 30px;          
   padding: 0 6px;
 }
 
@@ -164,3 +164,4 @@ td:nth-child(1) {
   padding-left: 2px;
   padding-right: 2px;
 }
+
