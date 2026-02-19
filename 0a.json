@@ -963,19 +963,6 @@
       ]
     },
     {
-          "title": "おジャ魔女カーニバル",
-          "sortKey":"おじゃまじょかーにばる",
-          "artists": [
-          { "name": "MAHO堂", "type":"main" }
-        ],
-          "performances":[
-        {
-          "date": "2024-10-31",
-          "url": "https://www.youtube.com/watch?v=252oE4-4uP8&t=1994s"
-        }
-      ]
-    },
-    {
           "title": "ヴァンパイア",
           "sortKey":"うぁんぱいあ",
           "artists": [
@@ -1595,6 +1582,10 @@
         { "name": "MAHO堂", "type":"main" }
       ],
       "performances":[
+        {
+          "date": "2024-10-31",
+          "url": "https://www.youtube.com/watch?v=252oE4-4uP8&t=1994s"
+        },
        {
          "date": "2025-2-13",
          "url": "https://www.youtube.com/watch?v=Cu_BbzJf1sk&t=1289s"
@@ -2391,3 +2382,4 @@
     
   ]
 }
+
