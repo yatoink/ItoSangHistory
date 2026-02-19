@@ -1,0 +1,1293 @@
+{
+  "songs": [
+    {
+          "title": "Catch the Moment",
+          "sortKey":"catchthemoment",
+          "artists": [
+          { "name": "LiSA", "type":"main" }
+        ],
+          "performances":[
+        {
+          "date": "2024-7-22",
+          "url": "https://www.youtube.com/watch?v=JUwf__ruPN8&t=3080s"
+        },
+        {
+         "date": "2024-12-14",
+         "url": "https://www.youtube.com/watch?v=loQD4LcaFl8&t=6789s"
+       },
+       {
+         "date": "2025-2-1",
+         "url": "https://www.youtube.com/watch?v=sl3AKoAH_RU&t=4294s"
+       },
+       {
+         "date": "2025-2-13",
+         "url": "https://youtu.be/ofP06UotAIs?t=2081"
+       },
+       {
+         "date": "2025-4-8",
+         "url": "https://www.youtube.com/watch?v=8dCmuCuXGKo&t=5961s"
+       },
+       {
+         "date": "2025-5-15",
+         "url": "https://www.youtube.com/watch?v=uIHXqLzQNKU&t=6793s"
+       },
+       {
+         "date": "2025-6-19",
+         "url": "https://www.youtube.com/watch?v=aJ4wNGTS9nk&t=6135s"
+       },
+       {
+         "date": "2025-7-24",
+         "url": "https://www.youtube.com/watch?v=0qdsB3lDAcg&t=6940s"
+       },
+       {
+         "date": "2025-9-30",
+         "url": "https://www.youtube.com/watch?v=VQ_Nt_6Fl-c&t=7118s"
+       },
+       {
+         "date": "2025-11-20",
+         "url": "https://www.youtube.com/watch?v=pqXO_lykc48&t=9233s"
+       }
+      ]
+    },
+    {
+          "title": "Bling-Bang-Bang-born",
+          "sortKey":"blingbangbangborn",
+          "artists": [
+          { "name": "Creepy Nuts", "type":"main" }
+        ],
+          "performances":[
+        {
+          "date": "2024-8-9",
+          "url": "https://www.youtube.com/watch?v=0Vjk5iqLfo4&t=1014s"
+        },
+        {
+         "date": "2024-12-17",
+         "url": "https://www.youtube.com/watch?v=88t3l1W9QJE&t=486s"
+       }
+      ]
+    },
+    {
+          "title": "CH4NGE",
+          "sortKey":"ch4nge",
+          "artists": [
+          { "name": "Giga", "type":"main" }
+        ],
+          "performances":[
+        {
+          "date": "2024-8-9",
+          "url": "https://www.youtube.com/watch?v=0Vjk5iqLfo4&t=1379s"
+        },
+        {
+         "date": "2025-3-6",
+         "url": "https://www.youtube.com/watch?v=EY0jZLtZBCE&t=4196s"
+       },
+       {
+         "date": "2026-2-17",
+         "url": "https://www.youtube.com/watch?v=WH5xODnPXRM&t=2925s"
+       }
+      ]
+    },
+    {
+          "title": "Dec.",
+          "sortKey":"dec",
+          "artists": [
+          { "name": "Kanaria", "type":"main" }
+        ],
+          "performances":[
+        {
+          "date": "2024-8-9",
+          "url": "https://www.youtube.com/watch?v=0Vjk5iqLfo4&t=1726s"
+        },
+        {
+         "date": "2025-2-20",
+         "url": "https://www.youtube.com/watch?v=noXz0Y_2Cqo&t=3270s"
+       }
+      ]
+    },
+    {
+          "title": "Booo!",
+          "sortKey":"booo",
+          "artists": [
+          { "name": "TOKOTOKO（西沢さんP）", "type":"main" }
+        ],
+          "performances":[
+        {
+          "date": "2024-9-5",
+          "url": "https://www.youtube.com/watch?v=eHdMwuUL4vY&t=498s"
+        },
+        {
+          "date": "2024-9-12",
+          "url": "https://www.youtube.com/watch?v=eHdMwuUL4vY&t=498s"
+        },
+        {
+         "date": "2024-12-14",
+         "url": "https://www.youtube.com/watch?v=loQD4LcaFl8&t=482s"
+       },
+       {
+         "date": "2025-7-3",
+         "url": "https://www.youtube.com/watch?v=Dia6PmkcM3Y&t=1303s"
+       },
+       {
+         "date": "2025-11-11",
+         "url": "https://www.youtube.com/watch?v=Pt758REJCj8&t=4072s"
+       }
+      ]
+    },
+    {
+          "title": "fake face dance music",
+          "sortKey":"fakefacedancemusic",
+          "artists": [
+          { "name": "音田 雅則", "type":"main" }
+        ],
+          "performances":[
+        {
+          "date": "2024-10-29",
+          "url": "https://www.youtube.com/watch?v=tFEG9lOd1yc&t=3914s"
+        }
+      ]
+    },
+    {
+          "title": "DAYBREAK FRONTLINE",
+          "sortKey":"daybreakfrontline",
+          "artists": [
+          { "name": "Orangestar", "type":"main" }
+        ],
+          "performances":[
+        {
+          "date": "2024-11-3",
+          "url": "https://www.youtube.com/watch?v=f_4sBK4bgp4&t=3426s"
+        },
+        {
+          "date": "2024-11-14",
+          "url": "https://www.youtube.com/watch?v=3WJJQbtfTA0&t=5494s"
+        },
+        {
+         "date": "2024-11-26",
+         "url": "https://www.youtube.com/watch?v=eRR82I0PVZ4&t=4588s"
+       },
+       {
+         "date": "2025-1-30",
+         "url": "https://www.youtube.com/watch?v=W2MGSvB9AVU&t=5634s"
+       },
+       {
+         "date": "2025-3-18",
+         "url": "https://www.youtube.com/watch?v=W5tzHKR6xfE&t=6504s"
+       },
+       {
+         "date": "2025-5-22",
+         "url": "https://www.youtube.com/watch?v=CvuPKmb088A&t=5796s"
+       },
+       {
+         "date": "2025-6-5",
+         "url": "https://www.youtube.com/watch?v=gWFvuTAUIBo&t=5565s"
+       },
+       {
+         "date": "2025-8-14",
+         "url": "https://www.youtube.com/watch?v=cvMDwsFbpLk&t=3517s"
+       },
+       {
+         "date": "2025-10-14",
+         "url": "https://www.youtube.com/watch?v=mYdgXnydK2w&t=6431s"
+       },
+       {
+         "date": "2025-12-11",
+         "url": "https://www.youtube.com/watch?v=t_vc02224_E&t=15971s"
+       },
+       {
+         "date": "2026-1-8",
+         "url": "https://www.youtube.com/watch?v=WlEKyj2XW3o&t=6889s"
+       }
+      ]
+    },
+    {
+        "title": "ECHO",
+        "sortKey":"echo",
+        "artists": [
+          { "name": "Crusher-P", "type":"main" }
+        ],
+          "performances":[
+        {
+          "date": "2024-11-14",
+          "url": "https://www.youtube.com/watch?v=3WJJQbtfTA0&t=2564s"
+        },
+        {
+         "date": "2025-4-24",
+         "url": "https://www.youtube.com/watch?v=rhmHOfIzoJc&t=692s"
+       }
+      ]
+    },
+    {
+        "title": "Beyond the way",
+        "sortKey":"beyondtheway",
+        "artists": [
+        { "name": "Giga", "type":"main" }
+        ],
+          "performances":[
+        {
+          "date": "2024-11-20",
+          "url": "https://www.youtube.com/watch?v=Ljy_ElbB0_s&t=1575s"
+        },
+        {
+         "date": "2026-2-17",
+         "url": "https://www.youtube.com/watch?v=WH5xODnPXRM&t=2729s"
+       }
+      ]
+    },
+    {
+      "title": "GHOST",
+      "sortKey":"ghost",
+      "artists": [
+        { "name": "星街すいせい", "type":"main" },
+        { "name": "佐藤厚仁", "type":"sub" }
+      ],
+      "performances":[
+       {
+         "date": "2024-11-21",
+         "url": "https://www.youtube.com/watch?v=TNkoRir1wpo&t=2973s"
+       },
+       {
+         "date": "2025-1-9",
+         "url": "https://www.youtube.com/watch?v=ApAe_vhyytQ&t=5121s"
+       },
+       {
+         "date": "2025-6-7",
+         "url": "https://www.youtube.com/watch?v=BIjMcjmweqA&t=4985s"
+       },
+       {
+         "date": "2025-7-1",
+         "url": "https://www.youtube.com/watch?v=xUNJq4fa3Aw&t=18874s"
+       },
+       {
+         "date": "2025-8-26",
+         "url": "https://www.youtube.com/watch?v=QlmIP8c6bgY&t=20563s"
+       }
+      ]
+    },
+    {
+      "title": "Darling",
+      "sortKey":"darling",
+      "artists": [
+        { "name": "西野カナ", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2024-11-28",
+         "url": "https://www.youtube.com/watch?v=hKRTpavB7iM&t=3172s"
+       },
+       {
+         "date": "2025-7-3",
+         "url": "https://www.youtube.com/watch?v=Dia6PmkcM3Y&t=3529s"
+       },
+       {
+         "date": "2025-12-13",
+         "url": "https://www.youtube.com/watch?v=cS35K8UK3Ks&t=2285s"
+       }
+      ]
+    },
+    {
+      "title": "APT.",
+      "sortKey":"apt",
+      "artists": [
+        { "name": "ROSÉ", "type":"main" },
+        { "name": "Bruno Mars", "type":"sub" }
+      ],
+      "performances":[
+       {
+         "date": "2024-12-17",
+         "url": "https://www.youtube.com/watch?v=88t3l1W9QJE&t=4562s"
+       },
+       {
+         "date": "2025-4-3",
+         "url": "https://www.youtube.com/watch?v=buOQczg1Cuc&t=2341s"
+       }
+      ]
+    },
+    {
+      "title": "CITRUS",
+      "sortKey":"citrus",
+      "artists": [
+        { "name": "Da-iCE", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2024-12-19",
+         "url": "https://www.youtube.com/watch?v=DFCmd3d5FAU&t=3337s"
+       },
+       {
+         "date": "2025-4-22",
+         "url": "https://www.youtube.com/watch?v=RwseH7pSHeQ&t=5012s"
+       },
+       {
+         "date": "2025-6-19",
+         "url": "https://www.youtube.com/watch?v=aJ4wNGTS9nk&t=4145s"
+       },
+       {
+         "date": "2025-11-25",
+         "url": "https://www.youtube.com/watch?v=i3IbsTVj56k&t=3690s"
+       }
+      ]
+    },
+    {
+      "title": "Fighting my way",
+      "sortKey":"fightingmyway",
+      "artists": [
+        { "name": "花海咲季", "type":"main" },
+        { "name": "Giga", "type":"sub" },
+        { "name": "初星学園", "type":"sub2" }
+      ],
+      "performances":[
+       {
+         "date": "2025-1-1",
+         "url": "https://www.youtube.com/watch?v=oPlTIXczz8k&t=1163s"
+       },
+       {
+         "date": "2025-1-8",
+         "url": "https://www.youtube.com/watch?v=KUz9GCEjvi4&t=882s"
+       },
+       {
+         "date": "2025-4-8",
+         "url": "https://www.youtube.com/watch?v=8dCmuCuXGKo&t=1436s"
+       },
+       {
+         "date": "2025-5-20",
+         "url": "https://www.youtube.com/watch?v=CY9ul2uFo9E&t=7372s"
+       },
+       {
+         "date": "2025-7-12",
+         "url": "https://www.youtube.com/watch?v=rdjsh6GbwrA&t=1986s"
+       }
+      ]
+    },
+    {
+      "title": "clumsy trick",
+      "sortKey":"clumsytrick",
+      "artists": [
+        { "name": "姫崎莉波", "type":"main" },
+        { "name": "初星学園", "type":"sub" }
+      ],
+      "performances":[
+       {
+         "date": "2025-1-8",
+         "url": "https://www.youtube.com/watch?v=KUz9GCEjvi4&t=2574s"
+       },
+       {
+         "date": "2025-5-15",
+         "url": "https://www.youtube.com/watch?v=uIHXqLzQNKU&t=4607s"
+       },
+       {
+         "date": "2025-7-12",
+         "url": "https://www.youtube.com/watch?v=rdjsh6GbwrA&t=5304s"
+       },
+       {
+         "date": "2025-8-26",
+         "url": "https://www.youtube.com/watch?v=QlmIP8c6bgY&t=14620s"
+       },
+       {
+         "date": "2026-1-20",
+         "url": "https://www.youtube.com/watch?v=KNnZbCjovj8&t=1718s"
+       }
+      ]
+    },
+    {
+      "title": "Campus mode!!",
+      "sortKey":"campusmode",
+      "artists": [
+        { "name": "初星学園", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-1-8",
+         "url": "https://www.youtube.com/watch?v=KUz9GCEjvi4&t=5667s"
+       },
+       {
+         "date": "2025-5-20",
+         "url": "https://www.youtube.com/watch?v=CY9ul2uFo9E&t=9396s"
+       },
+       {
+         "date": "2025-7-12",
+         "url": "https://www.youtube.com/watch?v=rdjsh6GbwrA&t=7369s"
+       },
+       {
+         "date": "2025-8-26",
+         "url": "https://www.youtube.com/watch?v=QlmIP8c6bgY&t=15569s"
+       }
+      ]
+    },
+    {
+      "title": "Bravely You",
+      "sortKey":"bravelyyou",
+      "artists": [
+        { "name": "Lia", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-1-15",
+         "url": "https://www.youtube.com/watch?v=hCtss07MoTU&t=3018s"
+       },
+       {
+         "date": "2025-3-8",
+         "url": "https://www.youtube.com/watch?v=SFf8MIcZKtk&t=4007s"
+       },
+       {
+         "date": "2025-5-27",
+         "url": "https://www.youtube.com/watch?v=xLHNGQ-0x2s&t=4434s"
+       },
+       {
+         "date": "2025-8-12",
+         "url": "https://www.youtube.com/watch?v=MHOexNxTRMs&t=4176s"
+       },
+       {
+         "date": "2025-10-2",
+         "url": "https://www.youtube.com/watch?v=LqwHJB-TTp0&t=4984s"
+       },
+       {
+         "date": "2025-10-30",
+         "url": "https://www.youtube.com/watch?v=bLlBhZpCwu0&t=1071s"
+       },
+       {
+         "date": "2026-1-6",
+         "url": "https://www.youtube.com/watch?v=9roTbh1owdI&t=4759s"
+       }
+      ]
+    },
+    {
+      "title": "Best Friend",
+      "sortKey":"bestfriend",
+      "artists": [
+        { "name": "西野カナ", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-1-15",
+         "url": "https://www.youtube.com/watch?v=hCtss07MoTU&t=3473s"
+       },
+       {
+         "date": "2025-3-22",
+         "url": "https://www.youtube.com/watch?v=Hl8u4TLkPw0&t=3563s"
+       },
+       {
+         "date": "2025-6-22",
+         "url": "https://www.youtube.com/watch?v=kGJDRN33gi8&t=1244s"
+       },
+       {
+         "date": "2025-8-26",
+         "url": "https://www.youtube.com/watch?v=QlmIP8c6bgY&t=32320s"
+       },
+       {
+         "date": "2025-12-23",
+         "url": "https://www.youtube.com/watch?v=rlgsKyIZLPI&t=3821s"
+       }
+      ]
+    },
+    {
+      "title": "GO FOR IT !!",
+      "sortKey":"goforit",
+      "artists": [
+        { "name": "西野カナ", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-1-16",
+         "url": "https://www.youtube.com/watch?v=M9RC6ikY13M&t=872s"
+       },
+       {
+         "date": "2025-8-21",
+         "url": "https://www.youtube.com/watch?v=rpyrI6NwqeE&t=3503s"
+       }
+      ]
+    },
+    {
+      "title": "Calc.",
+      "sortKey":"calc",
+      "artists": [
+        { "name": "ジミーサムP", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-1-22",
+         "url": "https://www.youtube.com/watch?v=cyZ7aKkEdXQ&t=6429s"
+       },
+       {
+         "date": "2025-7-29",
+         "url": "https://www.youtube.com/watch?v=p9tshsFbDfM&t=7180s"
+       },
+       {
+         "date": "2025-9-18",
+         "url": "https://www.youtube.com/watch?v=Shdb0Zpza80&t=7898s"
+       },
+       {
+         "date": "2026-1-17",
+         "url": "https://www.youtube.com/watch?v=bd50qHhF_CQ&t=4852s"
+       }
+      ]
+    },
+    {
+      "title": "DAI DAI DAI ファンタジスタ",
+      "sortKey":"daidaidaiふぁんたじすた",
+      "artists": [
+        { "name": "さくらみこ", "type":"main" },
+        { "name": "じん", "type":"sub" }
+      ],
+      "performances":[
+       {
+         "date": "2025-1-26",
+         "url": "https://www.youtube.com/watch?v=mckWOUXphaM&t=1667s"
+       }
+      ]
+    },
+    {
+      "title": "flower rhapsody",
+      "sortKey":"flowerrhapsody",
+      "artists": [
+        { "name": "さくらみこ", "type":"main" },
+        { "name": "堀江晶太", "type":"sub" }
+      ],
+      "performances":[
+       {
+         "date": "2025-1-26",
+         "url": "https://www.youtube.com/watch?v=mckWOUXphaM&t=4759s"
+       },
+       {
+         "date": "2026-1-1",
+         "url": "https://www.youtube.com/watch?v=kd5V83GYsPY&t=6929s"
+       }
+      ]
+    },
+    {
+      "title": "Baby you",
+      "sortKey":"babyyou",
+      "artists": [
+        { "name": "有華", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-1-28",
+         "url": "https://www.youtube.com/watch?v=rkOMjnw68Ck&t=949s"
+       },
+       {
+         "date": "2025-6-22",
+         "url": "https://www.youtube.com/watch?v=kGJDRN33gi8&t=468s"
+       },
+       {
+         "date": "2025-7-1",
+         "url": "https://www.youtube.com/watch?v=xUNJq4fa3Aw&t=4455s"
+       },
+       {
+         "date": "2025-9-4",
+         "url": "https://www.youtube.com/watch?v=H3ZeGB1C6I4&t=3866s"
+       }
+      ]
+    },
+    {
+      "title": "Flyer!",
+      "sortKey":"flyer",
+      "artists": [
+        { "name": "Chinozo", "type":"main" },
+        { "name": "Vivid BAD SQUAD", "type":"sub" }
+      ],
+      "performances":[
+       {
+         "date": "2025-1-30",
+         "url": "https://www.youtube.com/watch?v=W2MGSvB9AVU&t=713s"
+       },
+       {
+         "date": "2025-6-24",
+         "url": "https://www.youtube.com/watch?v=jcxJSklSwUU&t=630s"
+       },
+       {
+         "date": "2025-7-29",
+         "url": "https://www.youtube.com/watch?v=p9tshsFbDfM&t=774s"
+       },
+       {
+         "date": "2025-12-16",
+         "url": "https://www.youtube.com/watch?v=p8dfbq5ITc4&t=2625s"
+       }
+      ]
+    },
+    {
+      "title": "blessing",
+      "sortKey":"blessing",
+      "artists": [
+        { "name": "Halyosy", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-1-30",
+         "url": "https://www.youtube.com/watch?v=W2MGSvB9AVU&t=6042s"
+       }
+      ]
+    },
+    {
+      "title": "Bunny Girl",
+      "sortKey":"bunnygirl",
+      "artists": [
+        { "name": "AKASAKI", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-2-6",
+         "url": "https://www.youtube.com/watch?v=lb0l2t_g9KY&t=953s"
+       },
+       {
+         "date": "2025-2-20",
+         "url": "https://www.youtube.com/watch?v=noXz0Y_2Cqo&t=2626s"
+       },
+       {
+         "date": "2025-4-22",
+         "url": "https://www.youtube.com/watch?v=RwseH7pSHeQ&t=2555s"
+       },
+       {
+         "date": "2025-6-17",
+         "url": "https://www.youtube.com/watch?v=fAjOiCS9rX4&t=2556s"
+       },
+       {
+         "date": "2025-6-28",
+         "url": "https://www.youtube.com/watch?v=Kp6tUdR1wZY&t=2795s"
+       },
+       {
+         "date": "2025-8-21",
+         "url": "https://www.youtube.com/watch?v=rpyrI6NwqeE&t=5872s"
+       },
+       {
+         "date": "2025-8-26",
+         "url": "https://www.youtube.com/watch?v=QlmIP8c6bgY&t=39261s"
+       },
+       {
+         "date": "2025-12-4",
+         "url": "https://www.youtube.com/watch?v=6Tmp-BUDd1U&t=1278s"
+       },
+       {
+         "date": "2025-12-11",
+         "url": "https://www.youtube.com/watch?v=t_vc02224_E&t=9587s"
+       }
+      ]
+    },
+    {
+      "title": "ANIMA",
+      "sortKey":"anima",
+      "artists": [
+        { "name": "ReoNa", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-2-13",
+         "url": "https://youtu.be/ofP06UotAIs?t=236"
+       },
+       {
+         "date": "2025-3-30",
+         "url": "https://www.youtube.com/watch?v=_ZJw2-fRe-o&t=93s"
+       },
+       {
+         "date": "2025-5-20",
+         "url": "https://www.youtube.com/watch?v=CY9ul2uFo9E&t=2683s"
+       },
+       {
+         "date": "2025-6-19",
+         "url": "https://www.youtube.com/watch?v=aJ4wNGTS9nk&t=3378s"
+       },
+       {
+         "date": "2025-7-24",
+         "url": "https://www.youtube.com/watch?v=0qdsB3lDAcg&t=6499s"
+       },
+       {
+         "date": "2025-8-14",
+         "url": "https://www.youtube.com/watch?v=yg9l9bZGmO4&t=1944s"
+       },
+       {
+         "date": "2025-9-9",
+         "url": "https://www.youtube.com/watch?v=obGnFMRa6ZI&t=5974s"
+       },
+       {
+         "date": "2025-10-14",
+         "url": "https://www.youtube.com/watch?v=mYdgXnydK2w&t=2218s"
+       },
+       {
+         "date": "2025-11-25",
+         "url": "https://www.youtube.com/watch?v=i3IbsTVj56k&t=5658s"
+       },
+       {
+         "date": "2026-1-27",
+         "url": "https://www.youtube.com/watch?v=x1M3khIA9kM&t=4940s"
+       },
+       {
+         "date": "2026-2-5",
+         "url": "https://www.youtube.com/watch?v=-Fq7sfOmueg&t=5574s"
+       }
+      ]
+    },
+    {
+      "title": "chocolate box",
+      "sortKey":"chocolatebox",
+      "artists": [
+        { "name": "Dezzy(一億円P)", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-2-14",
+         "url": "https://www.youtube.com/watch?v=Ucs220BwygE&t=6438s"
+       }
+      ]
+    },
+    {
+      "title": "ALIVE",
+      "sortKey":"alive",
+      "artists": [
+        { "name": "ClariS", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-3-8",
+         "url": "https://www.youtube.com/watch?v=SFf8MIcZKtk&t=2972s"
+       },
+       {
+         "date": "2025-4-10",
+         "url": "https://www.youtube.com/watch?v=x9k6is0ldmw&t=369s"
+       },
+       {
+         "date": "2025-7-15",
+         "url": "https://www.youtube.com/watch?v=3UvJgNQff0E&t=3645s"
+       },
+       {
+         "date": "2025-8-14",
+         "url": "https://www.youtube.com/watch?v=yg9l9bZGmO4&t=3331s"
+       },
+       {
+         "date": "2025-10-2",
+         "url": "https://www.youtube.com/watch?v=LqwHJB-TTp0&t=2880s"
+       },
+       {
+         "date": "2025-12-11",
+         "url": "https://www.youtube.com/watch?v=t_vc02224_E&t=8945s"
+       },
+       {
+         "date": "2026-2-3",
+         "url": "https://www.youtube.com/watch?v=Jx0UyHznWmo&t=3704s"
+       }
+      ]
+    },
+    {
+      "title": "crossing field",
+      "sortKey":"crossingfield",
+      "artists": [
+        { "name": "LiSA", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-3-27",
+         "url": "https://www.youtube.com/watch?v=GlqlcsAy7OM&t=2986s"
+       },
+       {
+         "date": "2025-4-10",
+         "url": "https://www.youtube.com/watch?v=x9k6is0ldmw&t=738s"
+       },
+       {
+         "date": "2025-5-20",
+         "url": "https://www.youtube.com/watch?v=CY9ul2uFo9E&t=2412s"
+       },
+       {
+         "date": "2025-7-26",
+         "url": "https://www.youtube.com/watch?v=S9guYw1L_Iw&t=2194s"
+       },
+       {
+         "date": "2025-8-26",
+         "url": "https://www.youtube.com/watch?v=QlmIP8c6bgY&t=6448s"
+       },
+       {
+         "date": "2025-9-30",
+         "url": "https://www.youtube.com/watch?v=VQ_Nt_6Fl-c&t=2267s"
+       },
+       {
+         "date": "2026-1-29",
+         "url": "https://www.youtube.com/watch?v=mf87k6pJFGE&t=12019s"
+       }
+      ]
+    },
+    {
+      "title": "ADAMAS",
+      "sortKey":"adamas",
+      "artists": [
+        { "name": "LiSA", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-3-27",
+         "url": "https://www.youtube.com/watch?v=GlqlcsAy7OM&t=3421s"
+       },
+       {
+         "date": "2025-8-26",
+         "url": "https://www.youtube.com/watch?v=QlmIP8c6bgY&t=6206s"
+       },
+       {
+         "date": "2025-10-9",
+         "url": "https://www.youtube.com/watch?v=LTV_cMCRqAc&t=4350s"
+       }
+      ]
+    },
+    {
+      "title": "Don't say 'lazy'",
+      "sortKey":"dontsaylazy",
+      "artists": [
+        { "name": "放課後ティータイム", "type":"main" },
+        { "name": "桜高軽音部", "type":"sub" }
+      ],
+      "performances":[
+       {
+         "date": "2025-4-8",
+         "url": "https://www.youtube.com/watch?v=8dCmuCuXGKo&t=3671s"
+       },
+       {
+         "date": "2025-5-20",
+         "url": "https://www.youtube.com/watch?v=CY9ul2uFo9E&t=3859s"
+       },
+       {
+         "date": "2025-10-2",
+         "url": "https://www.youtube.com/watch?v=LqwHJB-TTp0&t=3778s"
+       },
+       {
+         "date": "2025-10-9",
+         "url": "https://www.youtube.com/watch?v=LTV_cMCRqAc&t=3730s"
+       }
+      ]
+    },
+    {
+      "title": "chAngE",
+      "sortKey":"change",
+      "artists": [
+        { "name": "miwa", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-4-10",
+         "url": "https://www.youtube.com/watch?v=x9k6is0ldmw&t=3761s"
+       },
+       {
+         "date": "2025-9-9",
+         "url": "https://www.youtube.com/watch?v=obGnFMRa6ZI&t=2175s"
+       },
+       {
+         "date": "2025-10-7",
+         "url": "https://www.youtube.com/watch?v=85i-rMAuSy4&t=6295s"
+       },
+       {
+         "date": "2025-12-2",
+         "url": "https://www.youtube.com/watch?v=UII6_enWsA8&t=5461s"
+       },
+       {
+         "date": "2026-1-29",
+         "url": "https://www.youtube.com/watch?v=mf87k6pJFGE&t=12552s"
+       }
+      ]
+    },
+    {
+      "title": "God knows...",
+      "sortKey":"godknows",
+      "artists": [
+        { "name": "涼宮ハルヒ(平野綾)", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-4-10",
+         "url": "https://www.youtube.com/watch?v=x9k6is0ldmw&t=4022s"
+       },
+       {
+         "date": "2025-8-26",
+         "url": "https://www.youtube.com/watch?v=QlmIP8c6bgY&t=7098s"
+       },
+       {
+         "date": "2025-9-9",
+         "url": "https://www.youtube.com/watch?v=obGnFMRa6ZI&t=506s"
+       },
+       {
+         "date": "2025-10-30",
+         "url": "https://www.youtube.com/watch?v=1rjQGLfeCYI&t=4650s"
+       },
+       {
+         "date": "2025-11-6",
+         "url": "https://www.youtube.com/watch?v=LbfJ27y4mUo&t=3174s"
+       }
+      ]
+    },
+    {
+      "title": "DOGLAND",
+      "sortKey":"dogland",
+      "artists": [
+        { "name": "PEOPLE 1", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-4-22",
+         "url": "https://www.youtube.com/watch?v=RwseH7pSHeQ&t=3913s"
+       }
+      ]
+    },
+    {
+      "title": "D/N/A",
+      "sortKey":"dna",
+      "artists": [
+        { "name": "25時、ナイトコードで。", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-5-20",
+         "url": "https://www.youtube.com/watch?v=CY9ul2uFo9E&t=2133s"
+       },
+       {
+         "date": "2025-5-27",
+         "url": "https://www.youtube.com/watch?v=xLHNGQ-0x2s&t=2656s"
+       },
+       {
+         "date": "2025-6-12",
+         "url": "https://www.youtube.com/watch?v=9YSmvQVX32o&t=1244s"
+       },
+       {
+         "date": "2025-7-29",
+         "url": "https://www.youtube.com/watch?v=p9tshsFbDfM&t=5588s"
+       },
+       {
+         "date": "2025-10-14",
+         "url": "https://www.youtube.com/watch?v=mYdgXnydK2w&t=1714s"
+       },
+       {
+         "date": "2025-12-11",
+         "url": "https://www.youtube.com/watch?v=t_vc02224_E&t=10630s"
+       },
+       {
+         "date": "2026-2-17",
+         "url": "https://www.youtube.com/watch?v=WH5xODnPXRM&t=2591s"
+       }
+      ]
+    },
+    {
+      "title": "Caramel Pain",
+      "sortKey":"caramelpain",
+      "artists": [
+        { "name": "星街すいせい", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-6-7",
+         "url": "https://www.youtube.com/watch?v=BIjMcjmweqA&t=2702s"
+       },
+       {
+         "date": "2025-8-26",
+         "url": "https://www.youtube.com/watch?v=QlmIP8c6bgY&t=4272s"
+       },
+       {
+         "date": "2025-12-2",
+         "url": "https://www.youtube.com/watch?v=UII6_enWsA8&t=1400s"
+       },
+       {
+         "date": "2026-2-3",
+         "url": "https://www.youtube.com/watch?v=Jx0UyHznWmo&t=2671s"
+       }
+      ]
+    },
+    {
+      "title": "AWAKE",
+      "sortKey":"awake",
+      "artists": [
+        { "name": "星街すいせい", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-6-7",
+         "url": "https://www.youtube.com/watch?v=BIjMcjmweqA&t=3057s"
+       }
+      ]
+    },
+    {
+      "title": "comet",
+      "sortKey":"comet",
+      "artists": [
+        { "name": "星街すいせい", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-6-7",
+         "url": "https://www.youtube.com/watch?v=BIjMcjmweqA&t=5434s"
+       },
+       {
+         "date": "2025-7-1",
+         "url": "https://www.youtube.com/watch?v=xUNJq4fa3Aw&t=20132s"
+       }
+      ]
+    },
+    {
+      "title": "DISCOTHEQUE",
+      "sortKey":"discotheque",
+      "artists": [
+        { "name": "水樹奈々", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-7-26",
+         "url": "https://www.youtube.com/watch?v=S9guYw1L_Iw&t=1751s"
+       },
+       {
+         "date": "2025-10-9",
+         "url": "https://www.youtube.com/watch?v=LTV_cMCRqAc&t=2064s"
+       },
+       {
+         "date": "2025-11-6",
+         "url": "https://www.youtube.com/watch?v=LbfJ27y4mUo&t=4135s"
+       }
+      ]
+    },
+    {
+      "title": "DANZEN! ふたりはプリキュア",
+      "sortKey":"danzenふたりはぷりきゅあ",
+      "artists": [
+        { "name": "五條真由美", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-8-28",
+         "url": "https://www.youtube.com/watch?v=-hkiVr5I6xo&t=2051s"
+       }
+      ]
+    },
+    {
+      "title": "Alright!ハートキャッチプリキュア!",
+      "sortKey":"alrightはーときゃっちぷりきゅあ",
+      "artists": [
+        { "name": "池田彩", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-8-28",
+         "url": "https://www.youtube.com/watch?v=-hkiVr5I6xo&t=3241s"
+       }
+      ]
+    },
+    {
+      "title": "courage",
+      "sortKey":"courage",
+      "artists": [
+        { "name": "戸松遥", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-10-7",
+         "url": "https://www.youtube.com/watch?v=85i-rMAuSy4&t=3102s"
+       }
+      ]
+    },
+    {
+      "title": "final phase",
+      "sortKey":"finalphase",
+      "artists": [
+        { "name": "fripSide", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-10-16",
+         "url": "https://www.youtube.com/watch?v=JDO_wrn4z5E&t=2085s"
+       },
+       {
+         "date": "2025-12-2",
+         "url": "https://www.youtube.com/watch?v=UII6_enWsA8&t=4235s"
+       }
+      ]
+    },
+    {
+      "title": "Crow Song",
+      "sortKey":"crowsong",
+      "artists": [
+        { "name": "Girls Dead Monster", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-10-21",
+         "url": "https://www.youtube.com/watch?v=7O4W9R_IID4&t=4083s"
+       },
+       {
+         "date": "2025-11-20",
+         "url": "https://www.youtube.com/watch?v=pqXO_lykc48&t=7873s"
+       }
+      ]
+    },
+    {
+      "title": "Alchemy",
+      "sortKey":"alchemy",
+      "artists": [
+        { "name": "Girls Dead Monster", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-10-21",
+         "url": "https://www.youtube.com/watch?v=7O4W9R_IID4&t=4339s"
+       },
+       {
+         "date": "2026-2-3",
+         "url": "https://www.youtube.com/watch?v=Jx0UyHznWmo&t=4962s"
+       }
+      ]
+    },
+    {
+      "title": "DREAM SOLISTER",
+      "sortKey":"dreamsolister",
+      "artists": [
+        { "name": "唐沢 美帆", "type":"main" },
+        { "name": "TRUE", "type":"sub" }
+      ],
+      "performances":[
+       {
+         "date": "2025-10-30",
+         "url": "https://www.youtube.com/watch?v=1rjQGLfeCYI&t=482s"
+       },
+       {
+         "date": "2026-1-1",
+         "url": "https://www.youtube.com/watch?v=kd5V83GYsPY&t=5268s"
+       }
+      ]
+    },
+    {
+      "title": "Daydream café",
+      "sortKey":"daydreamcafe",
+      "artists": [
+        { "name": "Petit Rabbit's", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-10-30",
+         "url": "https://www.youtube.com/watch?v=1rjQGLfeCYI&t=1942s"
+       },
+       {
+         "date": "2025-11-20",
+         "url": "https://www.youtube.com/watch?v=pqXO_lykc48&t=4995s"
+       }
+      ]
+    },
+    {
+      "title": "Cagayake!GIRLS",
+      "sortKey":"cagayakegirls",
+      "artists": [
+        { "name": "放課後ティータイム", "type":"main" },
+        { "name": "桜高軽音部", "type":"sub" }
+      ],
+      "performances":[
+       {
+         "date": "2025-11-6",
+         "url": "https://www.youtube.com/watch?v=LbfJ27y4mUo&t=342s"
+       },
+       {
+         "date": "2025-11-20",
+         "url": "https://www.youtube.com/watch?v=pqXO_lykc48&t=2594s"
+       }
+      ]
+    },
+    {
+      "title": "ETERNAL BLAZE",
+      "sortKey":"eternalblaze",
+      "artists": [
+        { "name": "水樹奈々", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-11-6",
+         "url": "https://www.youtube.com/watch?v=LbfJ27y4mUo&t=1430s"
+       },
+       {
+         "date": "2025-12-2",
+         "url": "https://www.youtube.com/watch?v=UII6_enWsA8&t=3572s"
+       },
+       {
+         "date": "2026-1-29",
+         "url": "https://www.youtube.com/watch?v=mf87k6pJFGE&t=13222s"
+       }
+      ]
+    },
+    {
+      "title": "FUN!!",
+      "sortKey":"fun",
+      "artists": [
+        { "name": "MORE MORE JUMP!", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-12-2",
+         "url": "https://www.youtube.com/watch?v=UII6_enWsA8&t=6510s"
+       }
+      ]
+    },
+    {
+      "title": "Angel Snow",
+      "sortKey":"angelsnow",
+      "artists": [
+        { "name": "れみ", "type":"main" },
+        { "name": "STAR☆ANIS", "type":"sub" }
+      ],
+      "performances":[
+       {
+         "date": "2025-12-24",
+         "url": "https://www.youtube.com/watch?v=h5Iy56wPJqg&t=713s"
+       }
+      ]
+    },
+    {
+      "title": "Forward",
+      "sortKey":"forward",
+      "artists": [
+        { "name": "Vivid BAD SQUAD", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2026-1-15",
+         "url": "https://www.youtube.com/watch?v=tEPR63VU8Cw&t=1716s"
+       }
+      ]
+    },
+    {
+      "title": "Bのリベンジ",
+      "sortKey":"bのりべんじ",
+      "artists": [
+        { "name": "B小町", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2026-1-29",
+         "url": "https://www.youtube.com/watch?v=mf87k6pJFGE&t=10973s"
+       },
+       {
+         "date": "2026-2-5",
+         "url": "https://www.youtube.com/watch?v=-Fq7sfOmueg&t=880s"
+       },
+       {
+         "date": "2026-2-10",
+         "url": "https://www.youtube.com/watch?v=Z4mLN7VMYdc&t=2737s"
+       }
+      ]
+    },
+    {
+      "title": "Avid",
+      "sortKey":"avid",
+      "artists": [
+        { "name": "SawanoHiroyuki[nZk]", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2026-2-3",
+         "url": "https://www.youtube.com/watch?v=Jx0UyHznWmo&t=4258s"
+       }
+      ]
+    },
+
+
+
+
+    {
+          "title": "",
+          "sortKey":"",
+          "artists": [
+          { "name": "", "type":"main" }
+        ],
+          "performances":[
+        {
+          "date": "--",
+          "url": ""
+        }
+      ]
+    }
+    
+  ]
+}

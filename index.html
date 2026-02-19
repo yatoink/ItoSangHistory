@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>空奏イト歌唱履歴</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="table-wrapper">
+  <h1 class = siteTitle>空奏イト歌唱履歴</h1>
+  <p class= "taisyo">(空奏イトchソロ歌唱音源有対象)</p>
+  <!-- タブボタン -->
+  <div id="tabs" class="tabs">
+    <button class="tabBtn active" data-json="0a.json">あ行</button>
+    <button class="tabBtn" data-json="1ka.json">か行</button>
+    <button class="tabBtn" data-json="2sa.json">さ行</button>
+    <button class="tabBtn" data-json="3ta.json">た行</button>
+    <button class="tabBtn" data-json="4na.json">な行</button>
+    <button class="tabBtn" data-json="5ha.json">は行</button>
+    <button class="tabBtn" data-json="6ma.json">ま行</button>
+    <button class="tabBtn" data-json="7ya.json">や行</button>
+    <button class="tabBtn" data-json="8ra.json">ら行</button>
+    <button class="tabBtn" data-json="9wa.json">わ行</button>
+    <button class="tabBtn at" data-json="10a-g.json">A-G</button>
+    <button class="tabBtn at" data-json="11h-n.json">H-N</button>
+    <button class="tabBtn at" data-json="12o-u.json">O-U</button>
+    <button class="tabBtn at" data-json="13v-z.json">V-Z</button>
+    <button class="tabBtn at" data-json="14num.json">Num</button>
+  </div>
+</div>
+
+<p id = "tyusyaku">[曲名] または [最新日付] タブを押すと曲順をソートできます</p>
+<!-- テーブル -->
+<div id="sortStatus"></div>
+<table id="songTable">
+  <thead id = "thead" >
+    <tr id="headerRow">
+      <th class = "songName" id = "songName" >曲名</th>
+      <th id = "artist">アーティスト他</th>
+      <th id = "newStream" >最新枠</th>
+      <th class = "newDay" id = "newDay" >最新日付</th>
+    </tr>
+  </thead>
+  <tbody id="tableBody"></tbody>
+</table>
+<p class = "tyusyaku">※アーティスト欄はいろいろな事情により不完全な物としてご了承ください。
+  <br>※本サイトはyoutubeにてタイプスタンプを押して下さっている方のおかげで成り立っております。
+  <br>※本サイトはYouTubeチャンネル「空奏イト / Ito Channel【ミクスト】」の歌唱をファンがまとめている非公式サイトです。
+</p>
+
+<script src="script.js"></script>
+</div>
+</body>
+</html>

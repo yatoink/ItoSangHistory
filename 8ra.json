@@ -1,0 +1,710 @@
+{
+  "songs": [
+    {
+          "title": " ラブレター",
+          "sortKey":"らぶれたー",
+          "artists": [
+          { "name": "YOASOBI", "type":"main" }
+        ],
+          "performances":[
+        {
+          "date": "2024-6-22",
+          "url": "https://www.youtube.com/watch?v=J64unX5b03A&t=737s"
+        }
+      ]
+    },
+    {
+          "title": "ロミオとシンデレラ",
+          "sortKey":"ろみおとしんでれら",
+          "artists": [
+          { "name": "Doriko", "type":"main" }
+        ],
+          "performances":[
+        {
+          "date": "2024-7-9",
+          "url": "https://www.youtube.com/watch?v=zrcfv5lAze4&t=1258s"
+        },
+        {
+         "date": "2024-11-26",
+         "url": "https://www.youtube.com/watch?v=eRR82I0PVZ4&t=2381s"
+       },
+       {
+         "date": "2024-12-26",
+         "url": "https://www.youtube.com/watch?v=A-6KOz4NDoM&t=4985s"
+       },
+       {
+         "date": "2025-1-22",
+         "url": "https://www.youtube.com/watch?v=cyZ7aKkEdXQ&t=2691s"
+       },
+       {
+         "date": "2025-3-6",
+         "url": "https://www.youtube.com/watch?v=EY0jZLtZBCE&t=2204s"
+       },
+       {
+         "date": "2025-4-5",
+         "url": "https://www.youtube.com/watch?v=SSHYyn-78bM&t=3305s"
+       },
+       {
+         "date": "2025-5-13",
+         "url": "https://www.youtube.com/watch?v=nicZAGtryXA&t=2775s"
+       },
+       {
+         "date": "2025-6-17",
+         "url": "https://www.youtube.com/watch?v=fAjOiCS9rX4&t=2918s"
+       },
+       {
+         "date": "2025-6-24",
+         "url": "https://www.youtube.com/watch?v=jcxJSklSwUU&t=2074s"
+       },
+       {
+         "date": "2025-7-1",
+         "url": "https://www.youtube.com/watch?v=xUNJq4fa3Aw&t=15670s"
+       },
+       {
+         "date": "2025-9-18",
+         "url": "https://www.youtube.com/watch?v=Shdb0Zpza80&t=2048s"
+       },
+       {
+         "date": "2025-12-4",
+         "url": "https://www.youtube.com/watch?v=6Tmp-BUDd1U&t=1504s"
+       },
+       {
+         "date": "2025-12-11",
+         "url": "https://www.youtube.com/watch?v=t_vc02224_E&t=13627s"
+       },
+       {
+         "date": "2026-1-29",
+         "url": "https://www.youtube.com/watch?v=mf87k6pJFGE&t=5404s"
+       }
+      ]
+    },
+    {
+          "title": "ロケットサイダー",
+          "sortKey":"ろけっとさいだー",
+          "artists": [
+          { "name": "ナユタン星人", "type":"main" }
+        ],
+          "performances":[
+        {
+          "date": "2024-8-4",
+          "url": "https://www.youtube.com/watch?v=zPMAiqfsogM&t=267s"
+        },
+        {
+         "date": "2025-5-22",
+         "url": "https://www.youtube.com/watch?v=CvuPKmb088A&t=300s"
+       },
+       {
+         "date": "2025-6-26",
+         "url": "https://www.youtube.com/watch?v=t1mO5vRQebQ&t=367s"
+       },
+       {
+         "date": "2025-7-1",
+         "url": "https://www.youtube.com/watch?v=xUNJq4fa3Aw&t=1999s"
+       }
+      ]
+    },
+    {
+          "title": "リバーシブル・キャンペーン",
+          "sortKey":"りばーしぶるきゃんぺーん",
+          "artists": [
+          { "name": "DECO*27", "type":"main" }
+        ],
+          "performances":[
+        {
+          "date": "2024-8-9",
+          "url": "https://www.youtube.com/watch?v=0Vjk5iqLfo4&t=306s"
+        },
+        {
+         "date": "2025-8-26",
+         "url": "https://www.youtube.com/watch?v=QlmIP8c6bgY&t=4744s"
+       },
+       {
+         "date": "2026-2-5",
+         "url": "https://www.youtube.com/watch?v=-Fq7sfOmueg&t=4418s"
+       }
+      ]
+    },
+    {
+          "title": "ロウワー",
+          "sortKey":"ろうわー",
+          "artists": [
+          { "name": "ぬゆり", "type":"main" }
+        ],
+          "performances":[
+        {
+          "date": "2024-8-9",
+          "url": "https://www.youtube.com/watch?v=0Vjk5iqLfo4&t=2102s"
+        },
+        {
+          "date": "2024-11-20",
+          "url": "https://www.youtube.com/watch?v=Ljy_ElbB0_s&t=2404s"
+        },
+        {
+         "date": "2025-3-6",
+         "url": "https://www.youtube.com/watch?v=EY0jZLtZBCE&t=4535s"
+       },
+       {
+         "date": "2025-5-22",
+         "url": "https://www.youtube.com/watch?v=CvuPKmb088A&t=4129s"
+       }
+      ]
+    },
+    {
+          "title": "ライラック",
+          "sortKey":"らいらっく",
+          "artists": [
+          { "name": "Mrs. GREEN APPLE", "type":"main" }
+        ],
+          "performances":[
+        {
+          "date": "2024-8-13",
+          "url": "https://www.youtube.com/watch?v=wg6-cyHV8JA&t=71s"
+        },
+        {
+          "date": "2024-9-9",
+          "url": "https://www.youtube.com/watch?v=bNC7OXFmdgE&t=3684s"
+        },
+        {
+         "date": "2024-12-14",
+         "url": "https://www.youtube.com/watch?v=loQD4LcaFl8&t=1880s"
+       },
+       {
+         "date": "2024-12-19",
+         "url": "https://www.youtube.com/watch?v=DFCmd3d5FAU&t=5589s"
+       },
+       {
+         "date": "2025-2-11",
+         "url": "https://www.youtube.com/watch?v=7fKPtwSIVf8&t=1990s"
+       },
+       {
+         "date": "2025-3-10",
+         "url": "https://www.youtube.com/watch?v=Q_Yu4XUrJSI&t=118s"
+       },
+       {
+         "date": "2025-6-17",
+         "url": "https://www.youtube.com/watch?v=fAjOiCS9rX4&t=1171s"
+       },
+       {
+         "date": "2025-7-8",
+         "url": "https://www.youtube.com/watch?v=5ubFOmUgAM8&t=1383s"
+       },
+       {
+         "date": "2025-8-23",
+         "url": "https://www.youtube.com/watch?v=fYHotvbp6Cc&t=1051s"
+       },
+       {
+         "date": "2025-11-18",
+         "url": "https://www.youtube.com/watch?v=EMwELYU5sfs&t=1628s"
+       },
+       {
+         "date": "2026-2-5",
+         "url": "https://www.youtube.com/watch?v=-Fq7sfOmueg&t=1912s"
+       }
+      ]
+    },
+    {
+          "title": "林檎売りの泡沫少女",
+          "sortKey":"りんごうりのうたかたしょうじょ",
+          "artists": [
+          { "name": "Yukkedoluce", "type":"main" }
+        ],
+          "performances":[
+        {
+          "date": "2024-8-19",
+          "url": "https://www.youtube.com/watch?v=mCCNV4GIiIw&t=793s"
+        },
+        {
+          "date": "2024-11-3",
+          "url": "https://www.youtube.com/watch?v=f_4sBK4bgp4&t=5720s"
+        },
+        {
+         "date": "2025-1-22",
+         "url": "https://www.youtube.com/watch?v=cyZ7aKkEdXQ&t=4790s"
+       },
+       {
+         "date": "2025-6-5",
+         "url": "https://www.youtube.com/watch?v=gWFvuTAUIBo&t=1335s"
+       },
+       {
+         "date": "2025-7-1",
+         "url": "https://www.youtube.com/watch?v=xUNJq4fa3Aw&t=7388s"
+       },
+       {
+         "date": "2025-7-17",
+         "url": "https://www.youtube.com/watch?v=2FAoYgbAvRM&t=1674s"
+       },
+       {
+         "date": "2025-8-21",
+         "url": "https://www.youtube.com/watch?v=se50HbtHAH0&t=3617s"
+       },
+       {
+         "date": "2025-8-26",
+         "url": "https://www.youtube.com/watch?v=QlmIP8c6bgY&t=16626s"
+       },
+       {
+         "date": "2025-9-25",
+         "url": "https://www.youtube.com/watch?v=HpaRbCXWOeQ&t=2362s"
+       },
+       {
+         "date": "2025-11-4",
+         "url": "https://www.youtube.com/watch?v=R5gGhAaFSgk&t=5767s"
+       },
+       {
+         "date": "2025-12-4",
+         "url": "https://www.youtube.com/watch?v=6Tmp-BUDd1U&t=3970s"
+       },
+       {
+         "date": "2025-12-9",
+         "url": "https://www.youtube.com/watch?v=RkS3GJrMYSI&t=1421s"
+       },
+       {
+         "date": "2026-1-13",
+         "url": "https://www.youtube.com/watch?v=Z9Y3Ghkwp2k&t=4465s"
+       }
+      ]
+    },
+    {
+          "title": "恋愛裁判",
+          "sortKey":"れんあいさいばん",
+          "artists": [
+          { "name": "40mP", "type":"main" }
+        ],
+          "performances":[
+        {
+          "date": "2024-9-12",
+          "url": "https://www.youtube.com/watch?v=Q2H4SSbJXlo&t=532s"
+        },
+        {
+         "date": "2025-1-9",
+         "url": "https://www.youtube.com/watch?v=ApAe_vhyytQ&t=2751s"
+       },
+       {
+         "date": "2025-3-6",
+         "url": "https://www.youtube.com/watch?v=EY0jZLtZBCE&t=1737s"
+       },
+       {
+         "date": "2025-4-5",
+         "url": "https://www.youtube.com/watch?v=SSHYyn-78bM&t=2053s"
+       },
+       {
+         "date": "2025-7-17",
+         "url": "https://www.youtube.com/watch?v=2FAoYgbAvRM&t=2260s"
+       }
+      ]
+    },
+    {
+          "title": "ライカ",
+          "sortKey":"らいか",
+          "artists": [
+          { "name": "yamada", "type":"main" }
+        ],
+          "performances":[
+        {
+          "date": "2024-11-12",
+          "url": "https://www.youtube.com/watch?v=1c4zoPGVkxQ&t=4960s"
+        },
+        {
+         "date": "2025-2-6",
+         "url": "https://www.youtube.com/watch?v=lb0l2t_g9KY&t=5002s"
+       },
+       {
+         "date": "2025-12-13",
+         "url": "https://www.youtube.com/watch?v=cS35K8UK3Ks&t=6573s"
+       }
+      ]
+    },
+    {
+        "title": "ラビットホール",
+        "sortKey":"らびっとほーる",
+        "artists": [
+          { "name": "DECO*27", "type":"main" }
+        ],
+          "performances":[
+        {
+          "date": "2024-11-14",
+          "url": "https://www.youtube.com/watch?v=3WJJQbtfTA0&t=2241s"
+        },
+        {
+         "date": "2025-6-12",
+         "url": "https://www.youtube.com/watch?v=9YSmvQVX32o&t=2471s"
+       }
+      ]
+    },
+    {
+      "title": "ルカルカ★ナイトフィーバー",
+      "sortKey":"るかるかないとふぃーばー",
+      "artists": [
+        { "name": "Samfree", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2024-11-26",
+         "url": "https://www.youtube.com/watch?v=eRR82I0PVZ4&t=700s"
+       },
+       {
+         "date": "2025-5-13",
+         "url": "https://www.youtube.com/watch?v=IUPch5CoyJo&t=51s"
+       },
+       {
+         "date": "2025-9-18",
+         "url": "https://www.youtube.com/watch?v=Shdb0Zpza80&t=1320s"
+       }
+      ]
+    },
+    {
+      "title": "炉心融解",
+      "sortKey":"ろしんゆうかい",
+      "artists": [
+        { "name": "iroha(sasaki)", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2024-11-26",
+         "url": "https://www.youtube.com/watch?v=eRR82I0PVZ4&t=1895s"
+       },
+       {
+         "date": "2025-5-13",
+         "url": "https://www.youtube.com/watch?v=nicZAGtryXA&t=976s"
+       },
+       {
+         "date": "2025-9-18",
+         "url": "https://www.youtube.com/watch?v=Shdb0Zpza80&t=967s"
+       },
+       {
+         "date": "2026-1-29",
+         "url": "https://www.youtube.com/watch?v=mf87k6pJFGE&t=4913s"
+       }
+      ]
+    },
+    {
+      "title": "ローリンガール",
+      "sortKey":"ろーりんがーる",
+      "artists": [
+        { "name": "Wowaka", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2024-11-26",
+         "url": "https://www.youtube.com/watch?v=eRR82I0PVZ4&t=3706s"
+       },
+       {
+         "date": "2025-4-24",
+         "url": "https://www.youtube.com/watch?v=rhmHOfIzoJc&t=2448s"
+       },
+       {
+         "date": "2025-5-22",
+         "url": "https://www.youtube.com/watch?v=CvuPKmb088A&t=2489s"
+       },
+       {
+         "date": "2025-7-17",
+         "url": "https://www.youtube.com/watch?v=2FAoYgbAvRM&t=4747s"
+       },
+       {
+         "date": "2025-9-16",
+         "url": "https://www.youtube.com/watch?v=2qVLTIyaUn8&t=3452s"
+       },
+       {
+         "date": "2025-10-23",
+         "url": "https://www.youtube.com/watch?v=lpMNWljWdPs&t=4642s"
+       },
+       {
+         "date": "2026-1-29",
+         "url": "https://www.youtube.com/watch?v=mf87k6pJFGE&t=4703s"
+       }
+      ]
+    },
+    {
+      "title": "ロストワンの号哭",
+      "sortKey":"ろすとわんのごうこく",
+      "artists": [
+        { "name": "Neru", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-2-4",
+         "url": "https://www.youtube.com/watch?v=Oi6VGDSW5A0&t=1192s"
+       },
+       {
+         "date": "2026-2-17",
+         "url": "https://www.youtube.com/watch?v=WH5xODnPXRM&t=1315s"
+       }
+      ]
+    },
+    {
+      "title": "ラプラスショコラ",
+      "sortKey":"らぷらすしょこら",
+      "artists": [
+        { "name": "Kai", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-2-14",
+         "url": "https://www.youtube.com/watch?v=Ucs220BwygE&t=3045s"
+       }
+      ]
+    },
+    {
+      "title": "レクイエム",
+      "sortKey":"れくいえむ",
+      "artists": [
+        { "name": "Kanaria", "type":"main" },
+        { "name": "星街すいせい", "type":"sub" }
+      ],
+      "performances":[
+       {
+         "date": "2025-2-27",
+         "url": "https://www.youtube.com/watch?v=ERhsK8f5Sig&t=4089s"
+       }
+      ]
+    },
+    {
+      "title": "ルマ",
+      "sortKey":"るま",
+      "artists": [
+        { "name": "かいりきベア", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-3-6",
+         "url": "https://www.youtube.com/watch?v=EY0jZLtZBCE&t=5003s"
+       },
+       {
+         "date": "2026-1-27",
+         "url": "https://www.youtube.com/watch?v=x1M3khIA9kM&t=2215s"
+       }
+      ]
+    },
+    {
+      "title": "リアライズ",
+      "sortKey":"りあらいず",
+      "artists": [
+        { "name": "Vivid BAD SQUAD", "type":"main" },
+        { "name": "柊マグネタイト", "type":"sub" }
+      ],
+      "performances":[
+       {
+         "date": "2025-3-8",
+         "url": "https://www.youtube.com/watch?v=SFf8MIcZKtk&t=875s"
+       },
+       {
+         "date": "2025-7-29",
+         "url": "https://www.youtube.com/watch?v=p9tshsFbDfM&t=2371s"
+       },
+       {
+         "date": "2025-12-16",
+         "url": "https://www.youtube.com/watch?v=p8dfbq5ITc4&t=2861s"
+       },
+       {
+         "date": "2026-2-3",
+         "url": "https://www.youtube.com/watch?v=Jx0UyHznWmo&t=1569s"
+       }
+      ]
+    },
+    {
+      "title": "ラブホイッスル",
+      "sortKey":"らぶほいっする",
+      "artists": [
+        { "name": "CHiCO", "type":"main" },
+        { "name": "HoneyWorks", "type":"sub" }
+      ],
+      "performances":[
+       {
+         "date": "2025-3-8",
+         "url": "https://www.youtube.com/watch?v=SFf8MIcZKtk&t=5554s"
+       }
+      ]
+    },
+    {
+      "title": "ロキ",
+      "sortKey":"ろき",
+      "artists": [
+        { "name": "みきとP", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-4-5",
+         "url": "https://www.youtube.com/watch?v=SSHYyn-78bM&t=754s"
+       }
+      ]
+    },
+    {
+      "title": "恋愛サーキュレーション",
+      "sortKey":"れんあいさーきゅれーしょん",
+      "artists": [
+        { "name": "千石撫子", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-4-10",
+         "url": "https://www.youtube.com/watch?v=x9k6is0ldmw&t=1834s"
+       },
+       {
+         "date": "2025-10-7",
+         "url": "https://www.youtube.com/watch?v=85i-rMAuSy4&t=2293s"
+       },
+       {
+         "date": "2025-11-6",
+         "url": "https://www.youtube.com/watch?v=LbfJ27y4mUo&t=2100s"
+       },
+       {
+         "date": "2025-12-11",
+         "url": "https://www.youtube.com/watch?v=t_vc02224_E&t=3412s"
+       }
+      ]
+    },
+    {
+      "title": "劣等上等",
+      "sortKey":"れっとうじょうとう",
+      "artists": [
+        { "name": "Giga", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-5-22",
+         "url": "https://www.youtube.com/watch?v=CvuPKmb088A&t=707s"
+       }
+      ]
+    },
+    {
+      "title": "リードコントロール",
+      "sortKey":"りーどこんとろーる",
+      "artists": [
+        { "name": "なるみや", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-5-27",
+         "url": "https://www.youtube.com/watch?v=xLHNGQ-0x2s&t=2554s"
+       },
+       {
+         "date": "2025-8-12",
+         "url": "https://www.youtube.com/watch?v=MHOexNxTRMs&t=2244s"
+       },
+       {
+         "date": "2025-8-21",
+         "url": "https://www.youtube.com/watch?v=se50HbtHAH0&t=1937s"
+       },
+       {
+         "date": "2025-8-23",
+         "url": "https://www.youtube.com/watch?v=fYHotvbp6Cc&t=6250s"
+       },
+       {
+         "date": "2025-12-23",
+         "url": "https://www.youtube.com/watch?v=rlgsKyIZLPI&t=1127s"
+       },
+       {
+         "date": "2026-1-27",
+         "url": "https://www.youtube.com/watch?v=x1M3khIA9kM&t=2788s"
+       }
+      ]
+    },
+    {
+      "title": "ライオン",
+      "sortKey":"らいおん",
+      "artists": [
+        { "name": "May'n", "type":"main" },
+        { "name": "中島愛", "type":"sub" }
+      ],
+      "performances":[
+       {
+         "date": "2025-9-9",
+         "url": "https://www.youtube.com/watch?v=obGnFMRa6ZI&t=2938s"
+       },
+       {
+         "date": "2025-10-9",
+         "url": "https://www.youtube.com/watch?v=EEzVeXw9GYo&t=239s"
+       },
+       {
+         "date": "2025-11-6",
+         "url": "https://www.youtube.com/watch?v=LbfJ27y4mUo&t=5978s"
+       }
+      ]
+    },
+    {
+      "title": "リモコン",
+      "sortKey":"りもこん",
+      "artists": [
+        { "name": "WONDERFUL★OPPORTUNITY!", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-9-18",
+         "url": "https://www.youtube.com/watch?v=Shdb0Zpza80&t=5670s"
+       }
+      ]
+    },
+    {
+      "title": "らぶびーむ！！",
+      "sortKey":"らぶびーむ",
+      "artists": [
+        { "name": "たかやん", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-11-11",
+         "url": "https://www.youtube.com/watch?v=Pt758REJCj8&t=5193s"
+       }
+      ]
+    },
+    {
+      "title": "ライフステージ",
+      "sortKey":"らいふすてーじ",
+      "artists": [
+        { "name": "iILiFE!", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-11-22",
+         "url": "https://www.youtube.com/watch?v=_60idcVEwv4&t=7223s"
+       },
+       {
+         "date": "2025-12-23",
+         "url": "https://www.youtube.com/watch?v=rlgsKyIZLPI&t=5118s"
+       }
+      ]
+    },
+    {
+      "title": "レディメイド",
+      "sortKey":"れでぃめいど",
+      "artists": [
+        { "name": "Ado", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2026-1-20",
+         "url": "https://www.youtube.com/watch?v=KNnZbCjovj8&t=732s"
+       }
+      ]
+    },
+    {
+      "title": "# ラブコード",
+      "sortKey":"らぶこーど",
+      "artists": [
+        { "name": "iLiFE!", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2026-2-3",
+         "url": "https://www.youtube.com/watch?v=Jx0UyHznWmo&t=2392s"
+       }
+      ]
+    },
+    
+
+
+    {
+          "title": "",
+          "sortKey":"",
+          "artists": [
+          { "name": "", "type":"main" }
+        ],
+          "performances":[
+        {
+          "date": "--",
+          "url": ""
+        }
+      ]
+    }
+    
+  ]
+}

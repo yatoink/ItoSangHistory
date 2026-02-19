@@ -1,0 +1,992 @@
+{
+  "songs": [
+    {
+          "title": " Shooting Star",
+          "sortKey":"shootingstar",
+          "artists": [
+          { "name": "Mixstgirls", "type":"main" }
+        ],
+          "performances":[
+        {
+          "date": "2024-6-28",
+          "url": "https://www.youtube.com/watch?v=de-hi127tms&t=3302s"
+        },
+        {
+         "date": "2025-3-10",
+         "url": "https://www.youtube.com/watch?v=Q_Yu4XUrJSI&t=1561s"
+       }
+      ]
+    },
+    {
+          "title": "Stellar Stellar",
+          "sortKey":"stellarstellar",
+          "artists": [
+          { "name": "星街すいせい", "type":"main" },
+          { "name": "Taku Inoue", "type":"sub" }
+        ],
+          "performances":[
+        {
+          "date": "2024-9-24",
+          "url": "https://www.youtube.com/watch?v=Xvkia-R0UOI&t=3280s"
+        },
+        {
+          "date": "2024-11-3",
+          "url": "https://www.youtube.com/watch?v=f_4sBK4bgp4&t=6929s"
+        },
+        {
+         "date": "2025-2-27",
+         "url": "https://www.youtube.com/watch?v=ERhsK8f5Sig&t=5529s"
+       },
+       {
+         "date": "2025-3-8",
+         "url": "https://www.youtube.com/watch?v=SFf8MIcZKtk&t=6910s"
+       },
+       {
+         "date": "2025-4-17",
+         "url": "https://www.youtube.com/watch?v=tNl3iTC_0Jo&t=5724s"
+       },
+       {
+         "date": "2025-5-1",
+         "url": "https://www.youtube.com/watch?v=MCfah-YF12s&t=4864s"
+       },
+       {
+         "date": "2025-6-7",
+         "url": "https://www.youtube.com/watch?v=BIjMcjmweqA&t=6339s"
+       },
+       {
+         "date": "2025-7-10",
+         "url": "https://www.youtube.com/watch?v=oOOdcHh7QV0&t=5230s"
+       },
+       {
+         "date": "2025-9-25",
+         "url": "https://www.youtube.com/watch?v=HpaRbCXWOeQ&t=7243s"
+       },
+       {
+         "date": "2025-11-25",
+         "url": "https://www.youtube.com/watch?v=i3IbsTVj56k&t=7281s"
+       },
+       {
+         "date": "2025-12-11",
+         "url": "https://www.youtube.com/watch?v=t_vc02224_E&t=16932s"
+       }
+      ]
+    },
+    {
+          "title": "STAR☆T☆RAIN",
+          "sortKey":"startrain",
+          "artists": [
+          { "name": "B小町", "type":"main" }
+        ],
+          "performances":[
+        {
+          "date": "2024-10-15",
+          "url": "https://www.youtube.com/watch?v=bwN4yIds3Ak&t=3065s"
+        },
+        {
+         "date": "2026-1-20",
+         "url": "https://www.youtube.com/watch?v=KNnZbCjovj8&t=1478s"
+       }
+      ]
+    },
+    {
+          "title": "ray",
+          "sortKey":"ray",
+          "artists": [
+          { "name": "bump of chicken", "type":"main" }
+        ],
+          "performances":[
+        {
+          "date": "2024-10-23",
+          "url": "https://www.youtube.com/watch?v=ko9_Xupq4xk&t=4595s"
+        },
+        {
+         "date": "2024-12-18",
+         "url": "https://www.youtube.com/watch?v=-odiAleHy2I&t=12298s"
+       },
+       {
+         "date": "2025-3-14",
+         "url": "https://www.youtube.com/watch?v=nFtAUDwGNrc&t=6763s"
+       },
+       {
+         "date": "2025-5-1",
+         "url": "https://www.youtube.com/watch?v=MCfah-YF12s&t=6644s"
+       },
+       {
+         "date": "2025-6-21",
+         "url": "https://www.youtube.com/watch?v=NFnRKEt2axU&t=6389s"
+       },
+       {
+         "date": "2026-1-6",
+         "url": "https://www.youtube.com/watch?v=9roTbh1owdI&t=5937s"
+       }
+      ]
+    },
+    {
+          "title": "Pretender",
+          "sortKey":"pretender",
+          "artists": [
+          { "name": "Official髭男dism", "type":"main" }
+        ],
+          "performances":[
+        {
+          "date": "2024-11-12",
+          "url": "https://www.youtube.com/watch?v=1c4zoPGVkxQ&t=1166s"
+        },
+        {
+         "date": "2025-2-11",
+         "url": "https://www.youtube.com/watch?v=7fKPtwSIVf8&t=6771s"
+       },
+       {
+         "date": "2025-6-28",
+         "url": "https://www.youtube.com/watch?v=Kp6tUdR1wZY&t=5184s"
+       },
+       {
+         "date": "2025-9-23",
+         "url": "https://www.youtube.com/watch?v=8GI5eszDRrs&t=5859s"
+       }
+      ]
+    },
+    {
+          "title": "Subtitle",
+          "sortKey":"subtitle",
+          "artists": [
+          { "name": "Official髭男dism", "type":"main" }
+        ],
+          "performances":[
+        {
+          "date": "2024-11-12",
+          "url": "https://www.youtube.com/watch?v=1c4zoPGVkxQ&t=1521s"
+        },
+        {
+         "date": "2025-12-13",
+         "url": "https://www.youtube.com/watch?v=cS35K8UK3Ks&t=5591s"
+       }
+      ]
+    },
+    {
+      "title": "TEMPLATE",
+      "sortKey":"template",
+      "artists": [
+        { "name": "星街すいせい", "type":"main" },
+        { "name": "キタニタツヤ", "type":"sub" }
+      ],
+      "performances":[
+       {
+         "date": "2024-11-21",
+         "url": "https://www.youtube.com/watch?v=TNkoRir1wpo&t=1257s"
+       },
+       {
+         "date": "2024-12-14",
+         "url": "https://www.youtube.com/watch?v=loQD4LcaFl8&t=3032s"
+       },
+       {
+         "date": "2025-6-7",
+         "url": "https://www.youtube.com/watch?v=BIjMcjmweqA&t=3977s"
+       },
+       {
+         "date": "2026-2-3",
+         "url": "https://www.youtube.com/watch?v=Jx0UyHznWmo&t=2862s"
+       }
+      ]
+    },
+    {
+      "title": "Overdose",
+      "sortKey":"overdose",
+      "artists": [
+        { "name": "なとり", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2024-12-19",
+         "url": "https://www.youtube.com/watch?v=DFCmd3d5FAU&t=2918s"
+       },
+       {
+         "date": "2025-9-23",
+         "url": "https://www.youtube.com/watch?v=8GI5eszDRrs&t=3508s"
+       }
+      ]
+    },
+    {
+      "title": "Snow halation",
+      "sortKey":"snowhalation",
+      "artists": [
+        { "name": "μ's", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2024-12-24",
+         "url": "https://www.youtube.com/watch?v=JwxJiIk8I4w&t=3630s"
+       },
+       {
+         "date": "2025-2-14",
+         "url": "https://www.youtube.com/watch?v=Ucs220BwygE&t=5961s"
+       },
+       {
+         "date": "2025-10-21",
+         "url": "https://www.youtube.com/watch?v=7O4W9R_IID4&t=6788s"
+       },
+       {
+         "date": "2025-11-20",
+         "url": "https://www.youtube.com/watch?v=pqXO_lykc48&t=9700s"
+       },
+       {
+         "date": "2025-12-23",
+         "url": "https://www.youtube.com/watch?v=rlgsKyIZLPI&t=3557s"
+       }
+      ]
+    },
+    {
+      "title": "Tame-Lie-One-Step",
+      "sortKey":"tamelieonestep",
+      "artists": [
+        { "name": "紫雲清夏", "type":"main" },
+        { "name": "初星学園", "type":"sub" }
+      ],
+      "performances":[
+       {
+         "date": "2025-1-8",
+         "url": "https://www.youtube.com/watch?v=KUz9GCEjvi4&t=3147s"
+       },
+       {
+         "date": "2025-5-20",
+         "url": "https://www.youtube.com/watch?v=CY9ul2uFo9E&t=8603s"
+       },
+       {
+         "date": "2025-7-12",
+         "url": "https://www.youtube.com/watch?v=rdjsh6GbwrA&t=5063s"
+       },
+       {
+         "date": "2025-8-26",
+         "url": "https://www.youtube.com/watch?v=QlmIP8c6bgY&t=14380s"
+       },
+       {
+         "date": "2026-1-20",
+         "url": "https://www.youtube.com/watch?v=KNnZbCjovj8&t=1962s"
+       }
+      ]
+    },
+    {
+      "title": "The Rolling Riceball",
+      "sortKey":"therollingriceball",
+      "artists": [
+        { "name": "花海佑芽", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-1-8",
+         "url": "https://www.youtube.com/watch?v=KUz9GCEjvi4&t=4769s"
+       }
+      ]
+    },
+    {
+      "title": "SUNAO",
+      "sortKey":"sunao",
+      "artists": [
+        { "name": "さくらみこ", "type":"main" },
+        { "name": "水野良樹", "type":"sub" }
+      ],
+      "performances":[
+       {
+         "date": "2025-1-26",
+         "url": "https://www.youtube.com/watch?v=mckWOUXphaM&t=4188s"
+       }
+      ]
+    },
+    {
+      "title": "Redo",
+      "sortKey":"redo",
+      "artists": [
+        { "name": "鈴木このみ", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-2-13",
+         "url": "https://www.youtube.com/watch?v=Cu_BbzJf1sk&t=463s"
+       },
+       {
+         "date": "2025-3-30",
+         "url": "https://www.youtube.com/watch?v=_ZJw2-fRe-o&t=812s"
+       },
+       {
+         "date": "2025-10-2",
+         "url": "https://www.youtube.com/watch?v=LqwHJB-TTp0&t=515s"
+       },
+       {
+         "date": "2025-10-30",
+         "url": "https://www.youtube.com/watch?v=bLlBhZpCwu0&t=260s"
+       }
+      ]
+    },
+    {
+      "title": "StaRt",
+      "sortKey":"start",
+      "artists": [
+        { "name": "Mrs. GREEN APPLE", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-3-8",
+         "url": "https://www.youtube.com/watch?v=SFf8MIcZKtk&t=446s"
+       },
+       {
+         "date": "2025-4-22",
+         "url": "https://www.youtube.com/watch?v=RwseH7pSHeQ&t=593s"
+       },
+       {
+         "date": "2025-8-19",
+         "url": "https://www.youtube.com/watch?v=3X9e-ZTceNk&t=637s"
+       },
+       {
+         "date": "2025-9-30",
+         "url": "https://www.youtube.com/watch?v=VQ_Nt_6Fl-c&t=417s"
+       },
+       {
+         "date": "2025-12-11",
+         "url": "https://www.youtube.com/watch?v=t_vc02224_E&t=16703s"
+       },
+       {
+         "date": "2025-12-16",
+         "url": "https://www.youtube.com/watch?v=p8dfbq5ITc4&t=7519s"
+       },
+       {
+         "date": "2026-2-10",
+         "url": "https://www.youtube.com/watch?v=Z4mLN7VMYdc&t=828s"
+       }
+      ]
+    },
+    {
+      "title": "only my railgun",
+      "sortKey":"onlymyrailgun",
+      "artists": [
+        { "name": "fripSide", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-3-8",
+         "url": "https://www.youtube.com/watch?v=SFf8MIcZKtk&t=3463s"
+       },
+       {
+         "date": "2025-4-3",
+         "url": "https://www.youtube.com/watch?v=buOQczg1Cuc&t=4317s"
+       },
+       {
+         "date": "2025-4-10",
+         "url": "https://www.youtube.com/watch?v=x9k6is0ldmw&t=4267s"
+       },
+       {
+         "date": "2025-5-27",
+         "url": "https://www.youtube.com/watch?v=xLHNGQ-0x2s&t=1057s"
+       },
+       {
+         "date": "2025-9-9",
+         "url": "https://www.youtube.com/watch?v=obGnFMRa6ZI&t=1797s"
+       },
+       {
+         "date": "2025-10-16",
+         "url": "https://www.youtube.com/watch?v=JDO_wrn4z5E&t=1285s"
+       },
+       {
+         "date": "2025-11-6",
+         "url": "https://www.youtube.com/watch?v=LbfJ27y4mUo&t=3868s"
+       }
+      ]
+    },
+    {
+      "title": "P・R・I・M・A",
+      "sortKey":"prima",
+      "artists": [
+        { "name": "Mixstgirls", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-3-23",
+         "url": "https://www.youtube.com/watch?v=c53sGADEYw4&t=265s"
+       }
+      ]
+    },
+    {
+      "title": "Reweave",
+      "sortKey":"reweave",
+      "artists": [
+        { "name": "鈴木このみ", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-3-27",
+         "url": "https://www.youtube.com/watch?v=GlqlcsAy7OM&t=3863s"
+       },
+       {
+         "date": "2025-8-26",
+         "url": "https://www.youtube.com/watch?v=QlmIP8c6bgY&t=8350s"
+       }
+      ]
+    },
+    {
+      "title": "POP IN 2",
+      "sortKey":"popin2",
+      "artists": [
+        { "name": "B小町", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-4-3",
+         "url": "https://www.youtube.com/watch?v=buOQczg1Cuc&t=3760s"
+       }
+      ]
+    },
+    {
+      "title": "This game",
+      "sortKey":"thisgame",
+      "artists": [
+        { "name": "鈴木このみ", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-4-10",
+         "url": "https://www.youtube.com/watch?v=x9k6is0ldmw&t=5615s"
+       },
+       {
+         "date": "2025-10-2",
+         "url": "https://www.youtube.com/watch?v=LqwHJB-TTp0&t=955s"
+       },
+       {
+         "date": "2025-10-7",
+         "url": "https://www.youtube.com/watch?v=85i-rMAuSy4&t=5213s"
+       },
+       {
+         "date": "2025-11-4",
+         "url": "https://www.youtube.com/watch?v=R5gGhAaFSgk&t=3185s"
+       },
+       {
+         "date": "2025-12-11",
+         "url": "https://www.youtube.com/watch?v=t_vc02224_E&t=6689s"
+       },
+       {
+         "date": "2026-1-29",
+         "url": "https://www.youtube.com/watch?v=mf87k6pJFGE&t=12950s"
+       }
+      ]
+    },
+    {
+      "title": "Over Drive",
+      "sortKey":"overdrive",
+      "artists": [
+        { "name": "JUDY AND MARY", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-4-19",
+         "url": "https://www.youtube.com/watch?v=GCtP5bQYrxU&t=7955s"
+       },
+       {
+         "date": "2026-1-8",
+         "url": "https://www.youtube.com/watch?v=WlEKyj2XW3o&t=354s"
+       }
+      ]
+    },
+    {
+      "title": "STAGE OF SEKAI",
+      "sortKey":"stageofsekai",
+      "artists": [
+        { "name": "Leo/need", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-5-22",
+         "url": "https://www.youtube.com/watch?v=CvuPKmb088A&t=4494s"
+       },
+       {
+         "date": "2025-7-1",
+         "url": "https://www.youtube.com/watch?v=xUNJq4fa3Aw&t=7776s"
+       },
+       {
+         "date": "2025-8-14",
+         "url": "https://www.youtube.com/watch?v=cvMDwsFbpLk&t=7792s"
+       },
+       {
+         "date": "2025-12-16",
+         "url": "https://www.youtube.com/watch?v=p8dfbq5ITc4&t=2208s"
+       },
+       {
+         "date": "2026-1-20",
+         "url": "https://www.youtube.com/watch?v=KNnZbCjovj8&t=3506s"
+       }
+      ]
+    },
+    {
+      "title": "Starry Jet",
+      "sortKey":"starryjet",
+      "artists": [
+        { "name": "星街すいせい", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-6-7",
+         "url": "https://www.youtube.com/watch?v=BIjMcjmweqA&t=1836s"
+       },
+       {
+         "date": "2025-6-26",
+         "url": "https://www.youtube.com/watch?v=t1mO5vRQebQ&t=1107s"
+       },
+       {
+         "date": "2025-7-1",
+         "url": "https://www.youtube.com/watch?v=xUNJq4fa3Aw&t=20919s"
+       },
+       {
+         "date": "2025-7-24",
+         "url": "https://www.youtube.com/watch?v=0qdsB3lDAcg&t=4778s"
+       },
+       {
+         "date": "2025-8-26",
+         "url": "https://www.youtube.com/watch?v=QlmIP8c6bgY&t=20087s"
+       }
+      ]
+    },
+    {
+      "title": "Realize",
+      "sortKey":"realize",
+      "artists": [
+        { "name": "鈴木このみ", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-6-24",
+         "url": "https://www.youtube.com/watch?v=jcxJSklSwUU&t=3363s"
+       },
+       {
+         "date": "2025-8-26",
+         "url": "https://www.youtube.com/watch?v=QlmIP8c6bgY&t=8603s"
+       },
+       {
+         "date": "2025-9-9",
+         "url": "https://www.youtube.com/watch?v=obGnFMRa6ZI&t=4502s"
+       }
+      ]
+    },
+    {
+      "title": "Uz",
+      "sortKey":"uz",
+      "artists": [
+        { "name": "Orangestar", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-7-1",
+         "url": "https://www.youtube.com/watch?v=xUNJq4fa3Aw&t=3410s"
+       },
+       {
+         "date": "2025-8-14",
+         "url": "https://www.youtube.com/watch?v=yg9l9bZGmO4&t=999s"
+       },
+       {
+         "date": "2025-8-21",
+         "url": "https://www.youtube.com/watch?v=rpyrI6NwqeE&t=5202s"
+       },
+       {
+         "date": "2025-10-23",
+         "url": "https://www.youtube.com/watch?v=lpMNWljWdPs&t=6742s"
+       },
+       {
+         "date": "2025-12-4",
+         "url": "https://www.youtube.com/watch?v=6Tmp-BUDd1U&t=4321s"
+       },
+       {
+         "date": "2026-2-10",
+         "url": "https://www.youtube.com/watch?v=Z4mLN7VMYdc&t=6622s"
+       }
+      ]
+    },
+    {
+      "title": "secret base ～君がくれたもの～",
+      "sortKey":"secretbaseきみがくれたもの",
+      "artists": [
+        { "name": "ZONE", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-7-8",
+         "url": "https://www.youtube.com/watch?v=5ubFOmUgAM8&t=4805s"
+       },
+       {
+         "date": "2025-8-14",
+         "url": "https://www.youtube.com/watch?v=cvMDwsFbpLk&t=6130s"
+       },
+       {
+         "date": "2025-8-16",
+         "url": "https://www.youtube.com/watch?v=WxvmKGM8-hU&t=6265s"
+       },
+       {
+         "date": "2025-8-26",
+         "url": "https://www.youtube.com/watch?v=QlmIP8c6bgY&t=17217s"
+       },
+       {
+         "date": "2025-10-9",
+         "url": "https://www.youtube.com/watch?v=EEzVeXw9GYo&t=1142s"
+       },
+       {
+         "date": "2025-11-20",
+         "url": "https://www.youtube.com/watch?v=pqXO_lykc48&t=8552s"
+       }
+      ]
+    },
+    {
+      "title": "The cute!!!",
+      "sortKey":"thecute",
+      "artists": [
+        { "name": "藤田ことね", "type":"main" },
+        { "name": "初星学園", "type":"sub" }
+      ],
+      "performances":[
+       {
+         "date": "2025-7-12",
+         "url": "https://www.youtube.com/watch?v=rdjsh6GbwrA&t=4267s"
+       },
+       {
+         "date": "2025-8-21",
+         "url": "https://www.youtube.com/watch?v=se50HbtHAH0&t=3171s"
+       },
+       {
+         "date": "2025-8-26",
+         "url": "https://www.youtube.com/watch?v=QlmIP8c6bgY&t=15342s"
+       }
+      ]
+    },
+    {
+      "title": "Tell Your World",
+      "sortKey":"tellyourworld",
+      "artists": [
+        { "name": "livetune", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-7-17",
+         "url": "https://www.youtube.com/watch?v=2FAoYgbAvRM&t=6439s"
+       }
+      ]
+    },
+    {
+      "title": "TKGの歌",
+      "sortKey":"tkgのうた",
+      "artists": [
+        { "name": "アリレム", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-7-26",
+         "url": "https://www.youtube.com/watch?v=S9guYw1L_Iw&t=529s"
+       }
+      ]
+    },
+    {
+      "title": "Realize!",
+      "sortKey":"realize",
+      "artists": [
+        { "name": "i☆Ris", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-7-26",
+         "url": "https://www.youtube.com/watch?v=S9guYw1L_Iw&t=851s"
+       },
+       {
+         "date": "2025-8-28",
+         "url": "https://www.youtube.com/watch?v=-hkiVr5I6xo&t=7830s"
+       },
+       {
+         "date": "2025-11-22",
+         "url": "https://www.youtube.com/watch?v=_60idcVEwv4&t=105s"
+       }
+      ]
+    },
+    {
+      "title": "The Everlasting Guilty Crown",
+      "sortKey":"theeverlastingguiltycrown",
+      "artists": [
+        { "name": "EGOIST", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-7-26",
+         "url": "https://www.youtube.com/watch?v=S9guYw1L_Iw&t=3273s"
+       },
+       {
+         "date": "2025-8-14",
+         "url": "https://www.youtube.com/watch?v=yg9l9bZGmO4&t=2792s"
+       },
+       {
+         "date": "2025-8-26",
+         "url": "https://www.youtube.com/watch?v=QlmIP8c6bgY&t=9496s"
+       },
+       {
+         "date": "2025-10-2",
+         "url": "https://www.youtube.com/watch?v=LqwHJB-TTp0&t=5367s"
+       },
+       {
+         "date": "2025-10-7",
+         "url": "https://www.youtube.com/watch?v=85i-rMAuSy4&t=5475s"
+       },
+       {
+         "date": "2026-2-3",
+         "url": "https://www.youtube.com/watch?v=Jx0UyHznWmo&t=3929s"
+       }
+      ]
+    },
+    {
+      "title": "Ultra Soul",
+      "sortKey":"ultrasoul",
+      "artists": [
+        { "name": "B'z", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-7-26",
+         "url": "https://www.youtube.com/watch?v=S9guYw1L_Iw&t=8556s"
+       },
+       {
+         "date": "2025-11-27",
+         "url": "https://www.youtube.com/watch?v=Jxw8yA0Q0Z8&t=7552s"
+       }
+      ]
+    },
+    {
+      "title": "Star-mine",
+      "sortKey":"starmine",
+      "artists": [
+        { "name": "Begrazia", "type":"main" },
+        { "name": "初星学園", "type":"sub" }
+      ],
+      "performances":[
+       {
+         "date": "2025-8-12",
+         "url": "https://www.youtube.com/watch?v=MHOexNxTRMs&t=77s"
+       },
+       {
+         "date": "2025-8-14",
+         "url": "https://www.youtube.com/watch?v=yg9l9bZGmO4&t=4291s"
+       },
+       {
+         "date": "2025-8-26",
+         "url": "https://www.youtube.com/watch?v=QlmIP8c6bgY&t=12685s"
+       },
+       {
+         "date": "2025-10-14",
+         "url": "https://www.youtube.com/watch?v=mYdgXnydK2w&t=513s"
+       },
+       {
+         "date": "2026-1-20",
+         "url": "https://www.youtube.com/watch?v=KNnZbCjovj8&t=235s"
+       }
+      ]
+    },
+    {
+      "title": "UNDEAD",
+      "sortKey":"undead",
+      "artists": [
+        { "name": "YOASOBI", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-8-23",
+         "url": "https://www.youtube.com/watch?v=fYHotvbp6Cc&t=5058s"
+       }
+      ]
+    },
+    {
+      "title": "SHINING LINE*",
+      "sortKey":"shinigline",
+      "artists": [
+        { "name": "わか・ふうり・ゆな", "type":"main" },
+        { "name": "STAR☆ANIS", "type":"sub" }
+      ],
+      "performances":[
+       {
+         "date": "2025-8-28",
+         "url": "https://www.youtube.com/watch?v=-hkiVr5I6xo&t=5074s"
+       },
+       {
+         "date": "2025-11-2",
+         "url": "https://www.youtube.com/watch?v=KJi867Y7Q5g&t=1469s"
+       }
+      ]
+    },
+    {
+      "title": "Supernova",
+      "sortKey":"supernova",
+      "artists": [
+        { "name": "MORE MORE JUMP!", "type":"main" },
+        { "name": "雄之助・春野", "type":"sub" }
+      ],
+      "performances":[
+       {
+         "date": "2025-9-21",
+         "url": "https://www.youtube.com/watch?v=AnNLfs02FJQ&t=560s"
+       },
+       {
+         "date": "2026-2-3",
+         "url": "https://www.youtube.com/watch?v=Jx0UyHznWmo&t=1735s"
+       }
+      ]
+    },
+    {
+      "title": "U&I",
+      "sortKey":"ui",
+      "artists": [
+        { "name": "放課後ティータイム", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-10-4",
+         "url": "https://www.youtube.com/watch?v=6DNQIGegf6g&t=3764s"
+       },
+       {
+         "date": "2025-10-21",
+         "url": "https://www.youtube.com/watch?v=7O4W9R_IID4&t=5966s"
+       }
+      ]
+    },
+    {
+      "title": "Q&A リサイタル!",
+      "sortKey":"q&aりさいたる",
+      "artists": [
+        { "name": "戸松遥", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-10-9",
+         "url": "https://www.youtube.com/watch?v=LTV_cMCRqAc&t=1749s"
+       },
+       {
+         "date": "2025-11-20",
+         "url": "https://www.youtube.com/watch?v=pqXO_lykc48&t=3688s"
+       },
+       {
+         "date": "2025-12-11",
+         "url": "https://www.youtube.com/watch?v=t_vc02224_E&t=5201s"
+       }
+      ]
+    },
+    {
+      "title": "RESISTER",
+      "sortKey":"resister",
+      "artists": [
+        { "name": "ASCA", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-10-9",
+         "url": "https://www.youtube.com/watch?v=LTV_cMCRqAc&t=4566s"
+       },
+       {
+         "date": "2025-12-9",
+         "url": "https://www.youtube.com/watch?v=RkS3GJrMYSI&t=2086s"
+       }
+      ]
+    },
+    {
+      "title": "SAKURAスキップ",
+      "sortKey":"sakuraすきっぷ",
+      "artists": [
+        { "name": "fourfolium", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-10-16",
+         "url": "https://www.youtube.com/watch?v=JDO_wrn4z5E&t=329s"
+       },
+       {
+         "date": "2026-1-1",
+         "url": "https://www.youtube.com/watch?v=kd5V83GYsPY&t=6186s"
+       }
+      ]
+    },
+    {
+      "title": "unravel",
+      "sortKey":"unravel",
+      "artists": [
+        { "name": "TK from 凛として時雨", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-10-21",
+         "url": "https://www.youtube.com/watch?v=7O4W9R_IID4&t=3550s"
+       }
+      ]
+    },
+    {
+      "title": "Share The Love",
+      "sortKey":"sharethelove",
+      "artists": [
+        { "name": "THE Sharehappi", "type":"main" },
+        { "name": "三代目 J Soul Brothers", "type":"sub" },
+        { "name": "EXILE TRIBE", "type":"sub2" }
+      ],
+      "performances":[
+       {
+         "date": "2025-11-11",
+         "url": "https://www.youtube.com/watch?v=Pt758REJCj8&t=402s"
+       }
+      ]
+    },
+    {
+      "title": "READY!!(M@STER VERSION)",
+      "sortKey":"ready",
+      "artists": [
+        { "name": "765PRO ALLSTARS", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-11-20",
+         "url": "https://www.youtube.com/watch?v=pqXO_lykc48&t=86s"
+       },
+       {
+         "date": "2025-12-11",
+         "url": "https://www.youtube.com/watch?v=t_vc02224_E&t=732s"
+       }
+      ]
+    },
+    {
+      "title": "STARDOM!",
+      "sortKey":"stardom",
+      "artists": [
+        { "name": "せな・りえ・みき・かな", "type":"main" },
+        { "name": "AIKATSU☆STARS!", "type":"sub" }
+      ],
+      "performances":[
+       {
+         "date": "2025-12-23",
+         "url": "https://www.youtube.com/watch?v=rlgsKyIZLPI&t=505s"
+       }
+      ]
+    },
+    {
+      "title": "sweet timer",
+      "sortKey":"sweettimer",
+      "artists": [
+        { "name": "iLiFE!", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2026-1-29",
+         "url": "https://www.youtube.com/watch?v=mf87k6pJFGE&t=2633s"
+       }
+      ]
+    },
+    
+
+
+    {
+          "title": "",
+          "sortKey":"",
+          "artists": [
+          { "name": "", "type":"main" }
+        ],
+          "performances":[
+        {
+          "date": "--",
+          "url": ""
+        }
+      ]
+    }
+    
+  ]
+}

@@ -1,0 +1,482 @@
+{
+  "songs": [
+    {
+          "title": " 夜明けと蛍",
+          "sortKey":"よあけとほたる",
+          "artists": [
+          { "name": "N-buna", "type":"main" }
+        ],
+          "performances":[
+        {
+          "date": "2024-6-28",
+          "url": "https://www.youtube.com/watch?v=de-hi127tms&t=2119s"
+        },
+        {
+          "date": "2024-11-3",
+          "url": "https://www.youtube.com/watch?v=f_4sBK4bgp4&t=989s"
+        },
+        {
+         "date": "2025-1-14",
+         "url": "https://www.youtube.com/watch?v=AeDtXc4Pi_Y&t=6055s"
+       },
+       {
+         "date": "2025-2-4",
+         "url": "https://www.youtube.com/watch?v=Oi6VGDSW5A0&t=4734s"
+       },
+       {
+         "date": "2025-3-7",
+         "url": "https://www.youtube.com/watch?v=9kPIThSqfHA&t=3090s"
+       },
+       {
+         "date": "2025-3-18",
+         "url": "https://www.youtube.com/watch?v=W5tzHKR6xfE&t=3598s"
+       },
+       {
+         "date": "2025-4-29",
+         "url": "https://www.youtube.com/watch?v=99Aq3nML2VI&t=4636s"
+       },
+       {
+         "date": "2025-6-26",
+         "url": "https://www.youtube.com/watch?v=f_JU3tonl60&t=1871s"
+       },
+       {
+         "date": "2025-7-1",
+         "url": "https://www.youtube.com/watch?v=xUNJq4fa3Aw&t=14182s"
+       },
+       {
+         "date": "2025-9-16",
+         "url": "https://www.youtube.com/watch?v=2qVLTIyaUn8&t=2225s"
+       },
+       {
+         "date": "2025-10-14",
+         "url": "https://www.youtube.com/watch?v=mYdgXnydK2w&t=4933s"
+       },
+       {
+         "date": "2025-12-4",
+         "url": "https://www.youtube.com/watch?v=6Tmp-BUDd1U&t=3662s"
+       },
+       {
+         "date": "2026-1-13",
+         "url": "https://www.youtube.com/watch?v=Z9Y3Ghkwp2k&t=4048s"
+       },
+       {
+         "date": "2026-2-17",
+         "url": "https://www.youtube.com/watch?v=WH5xODnPXRM&t=5366s"
+       }
+      ]
+    },
+    {
+          "title": "吉原ラメント",
+          "sortKey":"よしわららめんと",
+          "artists": [
+          { "name": "亜沙", "type":"main" }
+        ],
+          "performances":[
+        {
+          "date": "2024-7-9",
+          "url": "https://www.youtube.com/watch?v=zrcfv5lAze4&t=1705s"
+        },
+        {
+         "date": "2025-4-17",
+         "url": "https://www.youtube.com/watch?v=tNl3iTC_0Jo&t=2221s"
+       }
+      ]
+    },
+    {
+          "title": "ヨワネハキ",
+          "sortKey":"よわねはき",
+          "artists": [
+          { "name": "MAISONdes", "type":"main" }
+        ],
+          "performances":[
+        {
+          "date": "2024-7-22",
+          "url": "https://www.youtube.com/watch?v=JUwf__ruPN8&t=1643s"
+        },
+        {
+         "date": "2025-1-14",
+         "url": "https://www.youtube.com/watch?v=AeDtXc4Pi_Y&t=3075s"
+       },
+       {
+         "date": "2025-7-10",
+         "url": "https://www.youtube.com/watch?v=oOOdcHh7QV0&t=2530s"
+       }
+      ]
+    },
+    {
+          "title": "夜撫でるメノウ",
+          "sortKey":"よるなでるめのう",
+          "artists": [
+          { "name": "Ayase", "type":"main" }
+        ],
+          "performances":[
+        {
+          "date": "2024-11-12",
+          "url": "https://www.youtube.com/watch?v=1c4zoPGVkxQ&t=3238s"
+        },
+        {
+         "date": "2024-12-19",
+         "url": "https://www.youtube.com/watch?v=DFCmd3d5FAU&t=4512s"
+       },
+       {
+         "date": "2025-12-13",
+         "url": "https://www.youtube.com/watch?v=cS35K8UK3Ks&t=1579s"
+       },
+       {
+         "date": "2025-12-23",
+         "url": "https://www.youtube.com/watch?v=rlgsKyIZLPI&t=1982s"
+       }
+      ]
+    },
+    {
+      "title": "夜行",
+      "sortKey":"やこう",
+      "artists": [
+        { "name": "ヨルシカ", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2024-12-26",
+         "url": "https://www.youtube.com/watch?v=A-6KOz4NDoM&t=5577s"
+       },
+       {
+         "date": "2025-8-19",
+         "url": "https://www.youtube.com/watch?v=3X9e-ZTceNk&t=4068s"
+       }
+      ]
+    },
+    {
+      "title": "夜もすがら君想ふ",
+      "sortKey":"よもすがらきみおもふ",
+      "artists": [
+        { "name": "西沢さんP (TOKOTOKO)", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-1-28",
+         "url": "https://www.youtube.com/watch?v=rkOMjnw68Ck&t=5129s"
+       },
+       {
+         "date": "2025-2-1",
+         "url": "https://www.youtube.com/watch?v=sl3AKoAH_RU&t=4626s"
+       },
+       {
+         "date": "2025-3-6",
+         "url": "https://www.youtube.com/watch?v=EY0jZLtZBCE&t=6793s"
+       },
+       {
+         "date": "2025-4-3",
+         "url": "https://www.youtube.com/watch?v=buOQczg1Cuc&t=6204s"
+       },
+       {
+         "date": "2025-4-17",
+         "url": "https://www.youtube.com/watch?v=tNl3iTC_0Jo&t=4328s"
+       },
+       {
+         "date": "2025-5-1",
+         "url": "https://www.youtube.com/watch?v=MCfah-YF12s&t=6039s"
+       },
+       {
+         "date": "2025-5-10",
+         "url": "https://www.youtube.com/watch?v=fV6E5HFTVq8&t=50s"
+       },
+       {
+         "date": "2025-6-17",
+         "url": "https://www.youtube.com/watch?v=fAjOiCS9rX4&t=4532s"
+       },
+       {
+         "date": "2025-7-24",
+         "url": "https://www.youtube.com/watch?v=0qdsB3lDAcg&t=5520s"
+       },
+       {
+         "date": "2025-8-21",
+         "url": "https://www.youtube.com/watch?v=se50HbtHAH0&t=10785s"
+       },
+       {
+         "date": "2025-9-25",
+         "url": "https://www.youtube.com/watch?v=HpaRbCXWOeQ&t=6814s"
+       },
+       {
+         "date": "2025-12-9",
+         "url": "https://www.youtube.com/watch?v=RkS3GJrMYSI&t=4461s"
+       },
+       {
+         "date": "2025-12-16",
+         "url": "https://www.youtube.com/watch?v=p8dfbq5ITc4&t=7046s"
+       },
+       {
+         "date": "2026-1-17",
+         "url": "https://www.youtube.com/watch?v=bd50qHhF_CQ&t=5239s"
+       },
+       {
+         "date": "2026-1-29",
+         "url": "https://www.youtube.com/watch?v=mf87k6pJFGE&t=6292s"
+       }
+      ]
+    },
+    {
+      "title": "酔いどれ知らず",
+      "sortKey":"よいどれしらず",
+      "artists": [
+        { "name": "Kanaria", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-2-4",
+         "url": "https://www.youtube.com/watch?v=Oi6VGDSW5A0&t=2694s"
+       }
+      ]
+    },
+    {
+      "title": "夜に駆ける",
+      "sortKey":"よるにかける",
+      "artists": [
+        { "name": "YOASOBI", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-2-11",
+         "url": "https://www.youtube.com/watch?v=7fKPtwSIVf8&t=3475s"
+       },
+       {
+         "date": "2025-6-19",
+         "url": "https://www.youtube.com/watch?v=aJ4wNGTS9nk&t=795s"
+       },
+       {
+         "date": "2025-7-24",
+         "url": "https://www.youtube.com/watch?v=0qdsB3lDAcg&t=1900s"
+       },
+       {
+         "date": "2025-9-23",
+         "url": "https://www.youtube.com/watch?v=8GI5eszDRrs&t=1507s"
+       },
+       {
+         "date": "2026-1-17",
+         "url": "https://www.youtube.com/watch?v=bd50qHhF_CQ&t=255s"
+       }
+      ]
+    },
+    {
+      "title": "弱虫モンブラン",
+      "sortKey":"よわむしもんぶらん",
+      "artists": [
+        { "name": "DECO*27", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-4-17",
+         "url": "https://www.youtube.com/watch?v=tNl3iTC_0Jo&t=3149s"
+       },
+       {
+         "date": "2025-6-5",
+         "url": "https://www.youtube.com/watch?v=gWFvuTAUIBo&t=2088s"
+       },
+       {
+         "date": "2025-9-16",
+         "url": "https://www.youtube.com/watch?v=2qVLTIyaUn8&t=2737s"
+       },
+       {
+         "date": "2025-10-23",
+         "url": "https://www.youtube.com/watch?v=lpMNWljWdPs&t=2470s"
+       },
+       {
+         "date": "2025-12-11",
+         "url": "https://www.youtube.com/watch?v=t_vc02224_E&t=11227s"
+       },
+       {
+         "date": "2026-1-27",
+         "url": "https://www.youtube.com/watch?v=x1M3khIA9kM&t=3482s"
+       }
+      ]
+    },
+    {
+      "title": "指切り",
+      "sortKey":"ゆびきり",
+      "artists": [
+        { "name": "すこっぷ", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-5-13",
+         "url": "https://www.youtube.com/watch?v=nicZAGtryXA&t=3685s"
+       }
+      ]
+    },
+    {
+      "title": "ゆら・ゆらRing-Dong-Dance",
+      "sortKey":"ゆらゆらringdongdance",
+      "artists": [
+        { "name": "Pastel＊Palettes", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-5-20",
+         "url": "https://www.youtube.com/watch?v=CY9ul2uFo9E&t=5879s"
+       }
+      ]
+    },
+    {
+      "title": "往け",
+      "sortKey":"ゆけ",
+      "artists": [
+        { "name": "LiSA", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-8-14",
+         "url": "https://www.youtube.com/watch?v=yg9l9bZGmO4&t=1656s"
+       },
+       {
+         "date": "2025-10-7",
+         "url": "https://www.youtube.com/watch?v=85i-rMAuSy4&t=3627s"
+       },
+       {
+         "date": "2026-1-6",
+         "url": "https://www.youtube.com/watch?v=9roTbh1owdI&t=5084s"
+       },
+       {
+         "date": "2026-2-3",
+         "url": "https://www.youtube.com/watch?v=Jx0UyHznWmo&t=4715s"
+       }
+      ]
+    },
+    {
+      "title": "夜空。feat.ハジ→",
+      "sortKey":"よぞらfeatはじ",
+      "artists": [
+        { "name": "miwa", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-8-19",
+         "url": "https://www.youtube.com/watch?v=3X9e-ZTceNk&t=3642s"
+       }
+      ]
+    },
+    {
+      "title": "やっぱり雨は降るんだね",
+      "sortKey":"やっぱりあめはふるんだね",
+      "artists": [
+        { "name": "ツユ", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-8-21",
+         "url": "https://www.youtube.com/watch?v=se50HbtHAH0&t=2298s"
+       }
+      ]
+    },
+    {
+      "title": "夢にエール!パティシエール♪",
+      "sortKey":"ゆめにえーるぱてぃしえーる",
+      "artists": [
+        { "name": "五條真由美", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-8-28",
+         "url": "https://www.youtube.com/watch?v=-hkiVr5I6xo&t=75s"
+       }
+      ]
+    },
+    {
+      "title": "ゆめゆめ",
+      "sortKey":"ゆめゆめ",
+      "artists": [
+        { "name": "DECO*27", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-9-18",
+         "url": "https://www.youtube.com/watch?v=Shdb0Zpza80&t=5289s"
+       },
+       {
+         "date": "2026-1-20",
+         "url": "https://www.youtube.com/watch?v=KNnZbCjovj8&t=4582s"
+       }
+      ]
+    },
+    {
+      "title": "勇者",
+      "sortKey":"ゆうしゃ",
+      "artists": [
+        { "name": "YOASOBI", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-10-2",
+         "url": "https://www.youtube.com/watch?v=LqwHJB-TTp0&t=1862s"
+       },
+       {
+         "date": "2025-11-25",
+         "url": "https://www.youtube.com/watch?v=i3IbsTVj56k&t=1475s"
+       }
+      ]
+    },
+    {
+      "title": "ようこそジャパリパークへ",
+      "sortKey":"ようこそじゃぱりぱーくへ",
+      "artists": [
+        { "name": "どうぶつビスケッツ", "type":"main" },
+        { "name": "ppp", "type":"sub" }
+      ],
+      "performances":[
+       {
+         "date": "2025-10-30",
+         "url": "https://www.youtube.com/watch?v=1rjQGLfeCYI&t=2650s"
+       },
+       {
+         "date": "2025-11-20",
+         "url": "https://www.youtube.com/watch?v=pqXO_lykc48&t=1895s"
+       },
+       {
+         "date": "2025-12-11",
+         "url": "https://www.youtube.com/watch?v=t_vc02224_E&t=4988s"
+       }
+      ]
+    },
+    {
+      "title": "ゆりゆららららゆるゆり大事件",
+      "sortKey":"ゆりゆららららゆるゆりだいじけん",
+      "artists": [
+        { "name": "七森中☆ごらく部", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2025-11-20",
+         "url": "https://www.youtube.com/watch?v=pqXO_lykc48&t=3453s"
+       }
+      ]
+    },
+    {
+      "title": "ユニコーンガール",
+      "sortKey":"ゆにこーんがーる",
+      "artists": [
+        { "name": "Kai", "type":"main" }
+      ],
+      "performances":[
+       {
+         "date": "2026-1-29",
+         "url": "https://www.youtube.com/watch?v=mf87k6pJFGE&t=9727s"
+       }
+      ]
+    },
+
+
+
+    {
+          "title": "",
+          "sortKey":"",
+          "artists": [
+          { "name": "", "type":"main" }
+        ],
+          "performances":[
+        {
+          "date": "--",
+          "url": ""
+        }
+      ]
+    }
+    
+  ]
+}
